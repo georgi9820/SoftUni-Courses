@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.HelloSoftUni", "01.HelloSoftUni\01.HelloSoftUni.csproj", "{0B2A07E9-89AA-4BD5-A91F-1A04282279F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Nums1To10", "02.Nums1To10\02.Nums1To10.csproj", "{D546C07D-50A0-47C6-8B99-4652E8CD7420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RectangleArea", "03.RectangleArea\03.RectangleArea.csproj", "{5885600B-E39D-4971-B00B-D598D012145D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0B2A07E9-89AA-4BD5-A91F-1A04282279F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B2A07E9-89AA-4BD5-A91F-1A04282279F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B2A07E9-89AA-4BD5-A91F-1A04282279F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D546C07D-50A0-47C6-8B99-4652E8CD7420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D546C07D-50A0-47C6-8B99-4652E8CD7420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D546C07D-50A0-47C6-8B99-4652E8CD7420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D546C07D-50A0-47C6-8B99-4652E8CD7420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5885600B-E39D-4971-B00B-D598D012145D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5885600B-E39D-4971-B00B-D598D012145D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5885600B-E39D-4971-B00B-D598D012145D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5885600B-E39D-4971-B00B-D598D012145D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.exe
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.deps.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.runtimeconfig.dev.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.csproj.AssemblyReference.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.exe
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.deps.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.runtimeconfig.dev.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.RectangleArea\bin\Debug\netcoreapp3.1\03.RectangleArea.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.csproj.AssemblyReference.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.RectangleArea\obj\Debug\netcoreapp3.1\03.RectangleArea.genruntimeconfig.cache
