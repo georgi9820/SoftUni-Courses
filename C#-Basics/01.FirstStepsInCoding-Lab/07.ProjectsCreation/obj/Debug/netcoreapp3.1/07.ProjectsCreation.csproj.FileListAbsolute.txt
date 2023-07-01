@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.exe
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.deps.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.runtimeconfig.dev.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\07.ProjectsCreation\bin\Debug\netcoreapp3.1\07.ProjectsCreation.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.csproj.AssemblyReference.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\07.ProjectsCreation\obj\Debug\netcoreapp3.1\07.ProjectsCreation.genruntimeconfig.cache

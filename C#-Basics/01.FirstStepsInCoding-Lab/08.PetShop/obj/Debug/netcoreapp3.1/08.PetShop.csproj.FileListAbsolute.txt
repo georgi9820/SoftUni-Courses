@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.exe
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.deps.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.runtimeconfig.dev.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\08.PetShop\bin\Debug\netcoreapp3.1\08.PetShop.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.csproj.AssemblyReference.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\08.PetShop\obj\Debug\netcoreapp3.1\08.PetShop.genruntimeconfig.cache

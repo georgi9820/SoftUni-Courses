@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.exe
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.deps.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.runtimeconfig.dev.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.csproj.AssemblyReference.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.exe
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.deps.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.runtimeconfig.dev.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\09.YardGreening\bin\Debug\netcoreapp3.1\09.YardGreening.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.csproj.AssemblyReference.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\09.YardGreening\obj\Debug\netcoreapp3.1\09.YardGreening.genruntimeconfig.cache

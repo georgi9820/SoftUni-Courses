@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.exe
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.deps.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.runtimeconfig.dev.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\bin\Debug\netcoreapp3.1\05.GreetingByName.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.csproj.AssemblyReference.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\05.GreetingByName\obj\Debug\netcoreapp3.1\05.GreetingByName.genruntimeconfig.cache
