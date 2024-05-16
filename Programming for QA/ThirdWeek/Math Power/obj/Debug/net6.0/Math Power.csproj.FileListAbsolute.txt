@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Math Power\bin\Debug\net6.0\Math Power.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Math Power\bin\Debug\net6.0\Math Power.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Math Power\bin\Debug\net6.0\Math Power.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Math Power\bin\Debug\net6.0\Math Power.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Math Power\bin\Debug\net6.0\Math Power.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Math Power\obj\Debug\net6.0\Math Power.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Math Power\obj\Debug\net6.0\Math Power.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Math Power\obj\Debug\net6.0\Math Power.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Math Power\obj\Debug\net6.0\Math Power.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Math Power\obj\Debug\net6.0\Math Power.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Math Power\obj\Debug\net6.0\refint\Math Power.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Math Power\obj\Debug\net6.0\Math Power.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Math Power\obj\Debug\net6.0\Math Power.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Math Power\obj\Debug\net6.0\ref\Math Power.dll

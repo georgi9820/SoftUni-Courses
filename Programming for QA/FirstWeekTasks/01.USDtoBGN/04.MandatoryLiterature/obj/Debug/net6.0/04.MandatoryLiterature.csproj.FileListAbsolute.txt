@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\04.MandatoryLiterature\bin\Debug\net6.0\04.MandatoryLiterature.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\04.MandatoryLiterature\bin\Debug\net6.0\04.MandatoryLiterature.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\04.MandatoryLiterature\bin\Debug\net6.0\04.MandatoryLiterature.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\04.MandatoryLiterature\bin\Debug\net6.0\04.MandatoryLiterature.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\04.MandatoryLiterature\bin\Debug\net6.0\04.MandatoryLiterature.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\04.MandatoryLiterature\obj\Debug\net6.0\04.MandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\04.MandatoryLiterature\obj\Debug\net6.0\04.MandatoryLiterature.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\04.MandatoryLiterature\obj\Debug\net6.0\04.MandatoryLiterature.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\04.MandatoryLiterature\obj\Debug\net6.0\04.MandatoryLiterature.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\04.MandatoryLiterature\obj\Debug\net6.0\04.MandatoryLiterature.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\04.MandatoryLiterature\obj\Debug\net6.0\refint\04.MandatoryLiterature.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\04.MandatoryLiterature\obj\Debug\net6.0\04.MandatoryLiterature.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\04.MandatoryLiterature\obj\Debug\net6.0\04.MandatoryLiterature.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\04.MandatoryLiterature\obj\Debug\net6.0\ref\04.MandatoryLiterature.dll

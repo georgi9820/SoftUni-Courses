@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Top Integers\bin\Debug\net6.0\Top Integers.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Top Integers\bin\Debug\net6.0\Top Integers.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Top Integers\bin\Debug\net6.0\Top Integers.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Top Integers\bin\Debug\net6.0\Top Integers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Top Integers\bin\Debug\net6.0\Top Integers.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Top Integers\obj\Debug\net6.0\Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Top Integers\obj\Debug\net6.0\Top Integers.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Top Integers\obj\Debug\net6.0\Top Integers.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Top Integers\obj\Debug\net6.0\Top Integers.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Top Integers\obj\Debug\net6.0\Top Integers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Top Integers\obj\Debug\net6.0\refint\Top Integers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Top Integers\obj\Debug\net6.0\Top Integers.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Top Integers\obj\Debug\net6.0\Top Integers.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Top Integers\obj\Debug\net6.0\ref\Top Integers.dll

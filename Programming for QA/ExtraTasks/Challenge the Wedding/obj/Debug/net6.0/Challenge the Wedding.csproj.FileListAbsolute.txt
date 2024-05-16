@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Challenge the Wedding\bin\Debug\net6.0\Challenge the Wedding.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Challenge the Wedding\bin\Debug\net6.0\Challenge the Wedding.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Challenge the Wedding\bin\Debug\net6.0\Challenge the Wedding.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Challenge the Wedding\bin\Debug\net6.0\Challenge the Wedding.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Challenge the Wedding\bin\Debug\net6.0\Challenge the Wedding.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Challenge the Wedding\obj\Debug\net6.0\Challenge the Wedding.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Challenge the Wedding\obj\Debug\net6.0\Challenge the Wedding.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Challenge the Wedding\obj\Debug\net6.0\Challenge the Wedding.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Challenge the Wedding\obj\Debug\net6.0\Challenge the Wedding.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Challenge the Wedding\obj\Debug\net6.0\Challenge the Wedding.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Challenge the Wedding\obj\Debug\net6.0\refint\Challenge the Wedding.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Challenge the Wedding\obj\Debug\net6.0\Challenge the Wedding.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Challenge the Wedding\obj\Debug\net6.0\Challenge the Wedding.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Challenge the Wedding\obj\Debug\net6.0\ref\Challenge the Wedding.dll

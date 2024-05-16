@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Reverse an Array\bin\Debug\net6.0\Reverse an Array.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Reverse an Array\bin\Debug\net6.0\Reverse an Array.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Reverse an Array\bin\Debug\net6.0\Reverse an Array.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Reverse an Array\bin\Debug\net6.0\Reverse an Array.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Reverse an Array\bin\Debug\net6.0\Reverse an Array.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Reverse an Array\obj\Debug\net6.0\Reverse an Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Reverse an Array\obj\Debug\net6.0\Reverse an Array.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Reverse an Array\obj\Debug\net6.0\Reverse an Array.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Reverse an Array\obj\Debug\net6.0\Reverse an Array.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Reverse an Array\obj\Debug\net6.0\Reverse an Array.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Reverse an Array\obj\Debug\net6.0\refint\Reverse an Array.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Reverse an Array\obj\Debug\net6.0\Reverse an Array.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Reverse an Array\obj\Debug\net6.0\Reverse an Array.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Reverse an Array\obj\Debug\net6.0\ref\Reverse an Array.dll

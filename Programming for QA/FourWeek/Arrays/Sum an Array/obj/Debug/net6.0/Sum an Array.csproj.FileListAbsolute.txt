@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Sum an Array\bin\Debug\net6.0\Sum an Array.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Sum an Array\bin\Debug\net6.0\Sum an Array.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Sum an Array\bin\Debug\net6.0\Sum an Array.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Sum an Array\bin\Debug\net6.0\Sum an Array.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Sum an Array\bin\Debug\net6.0\Sum an Array.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Sum an Array\obj\Debug\net6.0\Sum an Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Sum an Array\obj\Debug\net6.0\Sum an Array.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Sum an Array\obj\Debug\net6.0\Sum an Array.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Sum an Array\obj\Debug\net6.0\Sum an Array.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Sum an Array\obj\Debug\net6.0\Sum an Array.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Sum an Array\obj\Debug\net6.0\refint\Sum an Array.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Sum an Array\obj\Debug\net6.0\Sum an Array.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Sum an Array\obj\Debug\net6.0\Sum an Array.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Sum an Array\obj\Debug\net6.0\ref\Sum an Array.dll

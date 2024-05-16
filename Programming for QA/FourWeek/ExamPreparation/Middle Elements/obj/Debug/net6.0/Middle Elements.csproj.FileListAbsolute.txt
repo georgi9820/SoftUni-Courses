@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Middle Elements\bin\Debug\net6.0\Middle Elements.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Middle Elements\bin\Debug\net6.0\Middle Elements.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Middle Elements\bin\Debug\net6.0\Middle Elements.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Middle Elements\bin\Debug\net6.0\Middle Elements.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Middle Elements\bin\Debug\net6.0\Middle Elements.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Middle Elements\obj\Debug\net6.0\Middle Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Middle Elements\obj\Debug\net6.0\Middle Elements.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Middle Elements\obj\Debug\net6.0\Middle Elements.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Middle Elements\obj\Debug\net6.0\Middle Elements.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Middle Elements\obj\Debug\net6.0\Middle Elements.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Middle Elements\obj\Debug\net6.0\refint\Middle Elements.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Middle Elements\obj\Debug\net6.0\Middle Elements.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Middle Elements\obj\Debug\net6.0\Middle Elements.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Middle Elements\obj\Debug\net6.0\ref\Middle Elements.dll

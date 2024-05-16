@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number In Range\bin\Debug\net6.0\Number In Range.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number In Range\bin\Debug\net6.0\Number In Range.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number In Range\bin\Debug\net6.0\Number In Range.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number In Range\bin\Debug\net6.0\Number In Range.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number In Range\bin\Debug\net6.0\Number In Range.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number In Range\obj\Debug\net6.0\Number In Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number In Range\obj\Debug\net6.0\Number In Range.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number In Range\obj\Debug\net6.0\Number In Range.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number In Range\obj\Debug\net6.0\Number In Range.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number In Range\obj\Debug\net6.0\Number In Range.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number In Range\obj\Debug\net6.0\refint\Number In Range.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number In Range\obj\Debug\net6.0\Number In Range.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number In Range\obj\Debug\net6.0\Number In Range.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number In Range\obj\Debug\net6.0\ref\Number In Range.dll

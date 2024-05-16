@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\HotelRoom\bin\Debug\net6.0\HotelRoom.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\HotelRoom\bin\Debug\net6.0\HotelRoom.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\HotelRoom\bin\Debug\net6.0\HotelRoom.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\HotelRoom\bin\Debug\net6.0\HotelRoom.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\HotelRoom\bin\Debug\net6.0\HotelRoom.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\HotelRoom\obj\Debug\net6.0\HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\HotelRoom\obj\Debug\net6.0\HotelRoom.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\HotelRoom\obj\Debug\net6.0\HotelRoom.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\HotelRoom\obj\Debug\net6.0\HotelRoom.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\HotelRoom\obj\Debug\net6.0\HotelRoom.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\HotelRoom\obj\Debug\net6.0\refint\HotelRoom.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\HotelRoom\obj\Debug\net6.0\HotelRoom.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\HotelRoom\obj\Debug\net6.0\HotelRoom.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\HotelRoom\obj\Debug\net6.0\ref\HotelRoom.dll

@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers From N to 1\Numbers From N to 1\bin\Debug\net6.0\Numbers From N to 1.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers From N to 1\Numbers From N to 1\bin\Debug\net6.0\Numbers From N to 1.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers From N to 1\Numbers From N to 1\bin\Debug\net6.0\Numbers From N to 1.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers From N to 1\Numbers From N to 1\bin\Debug\net6.0\Numbers From N to 1.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers From N to 1\Numbers From N to 1\bin\Debug\net6.0\Numbers From N to 1.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers From N to 1\Numbers From N to 1\obj\Debug\net6.0\Numbers From N to 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers From N to 1\Numbers From N to 1\obj\Debug\net6.0\Numbers From N to 1.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers From N to 1\Numbers From N to 1\obj\Debug\net6.0\Numbers From N to 1.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers From N to 1\Numbers From N to 1\obj\Debug\net6.0\Numbers From N to 1.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers From N to 1\Numbers From N to 1\obj\Debug\net6.0\Numbers From N to 1.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers From N to 1\Numbers From N to 1\obj\Debug\net6.0\refint\Numbers From N to 1.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers From N to 1\Numbers From N to 1\obj\Debug\net6.0\Numbers From N to 1.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers From N to 1\Numbers From N to 1\obj\Debug\net6.0\Numbers From N to 1.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers From N to 1\Numbers From N to 1\obj\Debug\net6.0\ref\Numbers From N to 1.dll

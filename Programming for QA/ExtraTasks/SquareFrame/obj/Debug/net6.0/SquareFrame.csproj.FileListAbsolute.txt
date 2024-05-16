@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\SquareFrame\bin\Debug\net6.0\SquareFrame.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\SquareFrame\bin\Debug\net6.0\SquareFrame.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\SquareFrame\bin\Debug\net6.0\SquareFrame.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\SquareFrame\bin\Debug\net6.0\SquareFrame.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\SquareFrame\bin\Debug\net6.0\SquareFrame.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\SquareFrame\obj\Debug\net6.0\SquareFrame.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\SquareFrame\obj\Debug\net6.0\SquareFrame.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\SquareFrame\obj\Debug\net6.0\SquareFrame.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\SquareFrame\obj\Debug\net6.0\SquareFrame.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\SquareFrame\obj\Debug\net6.0\SquareFrame.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\SquareFrame\obj\Debug\net6.0\refint\SquareFrame.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\SquareFrame\obj\Debug\net6.0\SquareFrame.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\SquareFrame\obj\Debug\net6.0\SquareFrame.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\SquareFrame\obj\Debug\net6.0\ref\SquareFrame.dll

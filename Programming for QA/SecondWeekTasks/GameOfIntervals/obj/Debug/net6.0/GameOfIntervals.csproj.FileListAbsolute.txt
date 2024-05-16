@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\GameOfIntervals\bin\Debug\net6.0\GameOfIntervals.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\GameOfIntervals\bin\Debug\net6.0\GameOfIntervals.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\GameOfIntervals\bin\Debug\net6.0\GameOfIntervals.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\GameOfIntervals\bin\Debug\net6.0\GameOfIntervals.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\GameOfIntervals\bin\Debug\net6.0\GameOfIntervals.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\GameOfIntervals\obj\Debug\net6.0\GameOfIntervals.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\GameOfIntervals\obj\Debug\net6.0\GameOfIntervals.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\GameOfIntervals\obj\Debug\net6.0\GameOfIntervals.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\GameOfIntervals\obj\Debug\net6.0\GameOfIntervals.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\GameOfIntervals\obj\Debug\net6.0\GameOfIntervals.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\GameOfIntervals\obj\Debug\net6.0\refint\GameOfIntervals.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\GameOfIntervals\obj\Debug\net6.0\GameOfIntervals.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\GameOfIntervals\obj\Debug\net6.0\GameOfIntervals.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\GameOfIntervals\obj\Debug\net6.0\ref\GameOfIntervals.dll

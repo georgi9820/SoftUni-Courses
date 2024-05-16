@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\CoffeeShopWithChecks\bin\Debug\net6.0\CoffeeShopWithChecks.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\CoffeeShopWithChecks\bin\Debug\net6.0\CoffeeShopWithChecks.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\CoffeeShopWithChecks\bin\Debug\net6.0\CoffeeShopWithChecks.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\CoffeeShopWithChecks\bin\Debug\net6.0\CoffeeShopWithChecks.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\CoffeeShopWithChecks\bin\Debug\net6.0\CoffeeShopWithChecks.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\CoffeeShopWithChecks\obj\Debug\net6.0\CoffeeShopWithChecks.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\CoffeeShopWithChecks\obj\Debug\net6.0\CoffeeShopWithChecks.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\CoffeeShopWithChecks\obj\Debug\net6.0\CoffeeShopWithChecks.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\CoffeeShopWithChecks\obj\Debug\net6.0\CoffeeShopWithChecks.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\CoffeeShopWithChecks\obj\Debug\net6.0\CoffeeShopWithChecks.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\CoffeeShopWithChecks\obj\Debug\net6.0\refint\CoffeeShopWithChecks.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\CoffeeShopWithChecks\obj\Debug\net6.0\CoffeeShopWithChecks.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\CoffeeShopWithChecks\obj\Debug\net6.0\CoffeeShopWithChecks.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\CoffeeShopWithChecks\obj\Debug\net6.0\ref\CoffeeShopWithChecks.dll

@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Sunglasses\bin\Debug\net6.0\Sunglasses.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Sunglasses\bin\Debug\net6.0\Sunglasses.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Sunglasses\bin\Debug\net6.0\Sunglasses.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Sunglasses\bin\Debug\net6.0\Sunglasses.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Sunglasses\bin\Debug\net6.0\Sunglasses.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Sunglasses\obj\Debug\net6.0\Sunglasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Sunglasses\obj\Debug\net6.0\Sunglasses.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Sunglasses\obj\Debug\net6.0\Sunglasses.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Sunglasses\obj\Debug\net6.0\Sunglasses.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Sunglasses\obj\Debug\net6.0\Sunglasses.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Sunglasses\obj\Debug\net6.0\refint\Sunglasses.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Sunglasses\obj\Debug\net6.0\Sunglasses.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Sunglasses\obj\Debug\net6.0\Sunglasses.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Sunglasses\obj\Debug\net6.0\ref\Sunglasses.dll

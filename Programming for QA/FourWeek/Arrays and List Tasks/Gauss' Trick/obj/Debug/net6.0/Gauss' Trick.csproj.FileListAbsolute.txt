@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Gauss' Trick\bin\Debug\net6.0\Gauss' Trick.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Gauss' Trick\bin\Debug\net6.0\Gauss' Trick.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Gauss' Trick\bin\Debug\net6.0\Gauss' Trick.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Gauss' Trick\bin\Debug\net6.0\Gauss' Trick.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Gauss' Trick\bin\Debug\net6.0\Gauss' Trick.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Gauss' Trick\obj\Debug\net6.0\Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Gauss' Trick\obj\Debug\net6.0\Gauss' Trick.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Gauss' Trick\obj\Debug\net6.0\Gauss' Trick.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Gauss' Trick\obj\Debug\net6.0\Gauss' Trick.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Gauss' Trick\obj\Debug\net6.0\Gauss' Trick.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Gauss' Trick\obj\Debug\net6.0\refint\Gauss' Trick.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Gauss' Trick\obj\Debug\net6.0\Gauss' Trick.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Gauss' Trick\obj\Debug\net6.0\Gauss' Trick.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Gauss' Trick\obj\Debug\net6.0\ref\Gauss' Trick.dll

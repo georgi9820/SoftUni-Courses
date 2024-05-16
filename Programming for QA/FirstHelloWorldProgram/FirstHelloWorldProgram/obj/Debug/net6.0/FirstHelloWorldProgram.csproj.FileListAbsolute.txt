@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstHelloWorldProgram\FirstHelloWorldProgram\bin\Debug\net6.0\FirstHelloWorldProgram.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstHelloWorldProgram\FirstHelloWorldProgram\bin\Debug\net6.0\FirstHelloWorldProgram.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstHelloWorldProgram\FirstHelloWorldProgram\bin\Debug\net6.0\FirstHelloWorldProgram.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstHelloWorldProgram\FirstHelloWorldProgram\bin\Debug\net6.0\FirstHelloWorldProgram.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstHelloWorldProgram\FirstHelloWorldProgram\bin\Debug\net6.0\FirstHelloWorldProgram.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstHelloWorldProgram\FirstHelloWorldProgram\obj\Debug\net6.0\FirstHelloWorldProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstHelloWorldProgram\FirstHelloWorldProgram\obj\Debug\net6.0\FirstHelloWorldProgram.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstHelloWorldProgram\FirstHelloWorldProgram\obj\Debug\net6.0\FirstHelloWorldProgram.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstHelloWorldProgram\FirstHelloWorldProgram\obj\Debug\net6.0\FirstHelloWorldProgram.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstHelloWorldProgram\FirstHelloWorldProgram\obj\Debug\net6.0\FirstHelloWorldProgram.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstHelloWorldProgram\FirstHelloWorldProgram\obj\Debug\net6.0\refint\FirstHelloWorldProgram.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstHelloWorldProgram\FirstHelloWorldProgram\obj\Debug\net6.0\FirstHelloWorldProgram.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstHelloWorldProgram\FirstHelloWorldProgram\obj\Debug\net6.0\FirstHelloWorldProgram.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstHelloWorldProgram\FirstHelloWorldProgram\obj\Debug\net6.0\ref\FirstHelloWorldProgram.dll

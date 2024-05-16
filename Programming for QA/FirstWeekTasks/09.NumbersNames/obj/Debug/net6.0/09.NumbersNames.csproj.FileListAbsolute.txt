@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\09.NumbersNames\bin\Debug\net6.0\09.NumbersNames.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\09.NumbersNames\bin\Debug\net6.0\09.NumbersNames.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\09.NumbersNames\bin\Debug\net6.0\09.NumbersNames.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\09.NumbersNames\bin\Debug\net6.0\09.NumbersNames.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\09.NumbersNames\bin\Debug\net6.0\09.NumbersNames.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\09.NumbersNames\obj\Debug\net6.0\09.NumbersNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\09.NumbersNames\obj\Debug\net6.0\09.NumbersNames.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\09.NumbersNames\obj\Debug\net6.0\09.NumbersNames.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\09.NumbersNames\obj\Debug\net6.0\09.NumbersNames.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\09.NumbersNames\obj\Debug\net6.0\09.NumbersNames.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\09.NumbersNames\obj\Debug\net6.0\refint\09.NumbersNames.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\09.NumbersNames\obj\Debug\net6.0\09.NumbersNames.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\09.NumbersNames\obj\Debug\net6.0\09.NumbersNames.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\09.NumbersNames\obj\Debug\net6.0\ref\09.NumbersNames.dll

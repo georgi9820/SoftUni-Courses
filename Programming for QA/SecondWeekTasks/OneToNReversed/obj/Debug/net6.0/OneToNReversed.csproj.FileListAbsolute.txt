@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\OneToNReversed\bin\Debug\net6.0\OneToNReversed.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\OneToNReversed\bin\Debug\net6.0\OneToNReversed.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\OneToNReversed\bin\Debug\net6.0\OneToNReversed.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\OneToNReversed\bin\Debug\net6.0\OneToNReversed.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\OneToNReversed\bin\Debug\net6.0\OneToNReversed.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\OneToNReversed\obj\Debug\net6.0\OneToNReversed.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\OneToNReversed\obj\Debug\net6.0\OneToNReversed.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\OneToNReversed\obj\Debug\net6.0\OneToNReversed.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\OneToNReversed\obj\Debug\net6.0\OneToNReversed.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\OneToNReversed\obj\Debug\net6.0\OneToNReversed.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\OneToNReversed\obj\Debug\net6.0\refint\OneToNReversed.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\OneToNReversed\obj\Debug\net6.0\OneToNReversed.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\OneToNReversed\obj\Debug\net6.0\OneToNReversed.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\OneToNReversed\obj\Debug\net6.0\ref\OneToNReversed.dll

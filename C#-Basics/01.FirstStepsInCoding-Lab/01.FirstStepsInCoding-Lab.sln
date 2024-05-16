@@ -3,23 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.HelloSoftUni", "01.HelloSoftUni\01.HelloSoftUni.csproj", "{0B2A07E9-89AA-4BD5-A91F-1A04282279F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.HelloSoftUni", "01.HelloSoftUni\01.HelloSoftUni.csproj", "{0B2A07E9-89AA-4BD5-A91F-1A04282279F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Nums1To10", "02.Nums1To10\02.Nums1To10.csproj", "{D546C07D-50A0-47C6-8B99-4652E8CD7420}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Nums1To10", "02.Nums1To10\02.Nums1To10.csproj", "{D546C07D-50A0-47C6-8B99-4652E8CD7420}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RectangleArea", "03.RectangleArea\03.RectangleArea.csproj", "{5885600B-E39D-4971-B00B-D598D012145D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.RectangleArea", "03.RectangleArea\03.RectangleArea.csproj", "{5885600B-E39D-4971-B00B-D598D012145D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.InchesToCentimeters", "04.InchesToCentimeters\04.InchesToCentimeters.csproj", "{F91B49D7-5098-4F33-9B1C-13B28207E8AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.InchesToCentimeters", "04.InchesToCentimeters\04.InchesToCentimeters.csproj", "{F91B49D7-5098-4F33-9B1C-13B28207E8AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.GreetingByName", "05.GreetingByName\05.GreetingByName.csproj", "{A0B97ED8-D791-4632-8A4D-0FD24C892653}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.GreetingByName", "05.GreetingByName\05.GreetingByName.csproj", "{A0B97ED8-D791-4632-8A4D-0FD24C892653}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ConcatenateData", "06.ConcatenateData\06.ConcatenateData.csproj", "{66A365D3-0432-473B-A8A8-328C9D3302AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.ConcatenateData", "06.ConcatenateData\06.ConcatenateData.csproj", "{66A365D3-0432-473B-A8A8-328C9D3302AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.ProjectsCreation", "07.ProjectsCreation\07.ProjectsCreation.csproj", "{D1BB525D-8094-444D-AD5A-059439352003}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.ProjectsCreation", "07.ProjectsCreation\07.ProjectsCreation.csproj", "{D1BB525D-8094-444D-AD5A-059439352003}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.PetShop", "08.PetShop\08.PetShop.csproj", "{C43FDCEB-B85C-41D7-8980-6821FE2226E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.PetShop", "08.PetShop\08.PetShop.csproj", "{C43FDCEB-B85C-41D7-8980-6821FE2226E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.YardGreening", "09.YardGreening\09.YardGreening.csproj", "{A5A80312-0154-45F6-ADEF-37AAA296D220}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.YardGreening", "09.YardGreening\09.YardGreening.csproj", "{A5A80312-0154-45F6-ADEF-37AAA296D220}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercices", "Exercices", "{10925719-8595-42F3-94DD-A31C54E0568F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.USDtoBGN", "01.USDtoBGN\01.USDtoBGN.csproj", "{8531F746-CE94-40AC-87C4-8A4D5A2B523C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RadiansToDegrees", "02.RadiansToDegrees\02.RadiansToDegrees.csproj", "{8FA094E4-8A9A-4203-BA6F-6906F507389F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.DepositCalculator", "03.DepositCalculator\03.DepositCalculator.csproj", "{06179783-ACFB-49DA-A5E9-64BA492782CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.VacationBooksList", "04.VacationBooksList\04.VacationBooksList.csproj", "{5DDACB06-FD3F-4F91-A981-A2A0C28278F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SuppliesForSchool", "05.SuppliesForSchool\05.SuppliesForSchool.csproj", "{86BACC58-A668-405D-8E0E-C8635E0C3B9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,9 +75,36 @@ Global
 		{A5A80312-0154-45F6-ADEF-37AAA296D220}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5A80312-0154-45F6-ADEF-37AAA296D220}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5A80312-0154-45F6-ADEF-37AAA296D220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8531F746-CE94-40AC-87C4-8A4D5A2B523C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8531F746-CE94-40AC-87C4-8A4D5A2B523C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8531F746-CE94-40AC-87C4-8A4D5A2B523C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8531F746-CE94-40AC-87C4-8A4D5A2B523C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA094E4-8A9A-4203-BA6F-6906F507389F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA094E4-8A9A-4203-BA6F-6906F507389F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA094E4-8A9A-4203-BA6F-6906F507389F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA094E4-8A9A-4203-BA6F-6906F507389F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06179783-ACFB-49DA-A5E9-64BA492782CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06179783-ACFB-49DA-A5E9-64BA492782CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06179783-ACFB-49DA-A5E9-64BA492782CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06179783-ACFB-49DA-A5E9-64BA492782CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DDACB06-FD3F-4F91-A981-A2A0C28278F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DDACB06-FD3F-4F91-A981-A2A0C28278F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DDACB06-FD3F-4F91-A981-A2A0C28278F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DDACB06-FD3F-4F91-A981-A2A0C28278F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BACC58-A668-405D-8E0E-C8635E0C3B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BACC58-A668-405D-8E0E-C8635E0C3B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BACC58-A668-405D-8E0E-C8635E0C3B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BACC58-A668-405D-8E0E-C8635E0C3B9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8531F746-CE94-40AC-87C4-8A4D5A2B523C} = {10925719-8595-42F3-94DD-A31C54E0568F}
+		{8FA094E4-8A9A-4203-BA6F-6906F507389F} = {10925719-8595-42F3-94DD-A31C54E0568F}
+		{06179783-ACFB-49DA-A5E9-64BA492782CC} = {10925719-8595-42F3-94DD-A31C54E0568F}
+		{5DDACB06-FD3F-4F91-A981-A2A0C28278F8} = {10925719-8595-42F3-94DD-A31C54E0568F}
+		{86BACC58-A668-405D-8E0E-C8635E0C3B9C} = {10925719-8595-42F3-94DD-A31C54E0568F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {130759FA-7104-4719-B8AA-750C1CE01A7F}

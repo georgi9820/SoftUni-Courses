@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Coins\bin\Debug\net6.0\Coins.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Coins\bin\Debug\net6.0\Coins.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Coins\bin\Debug\net6.0\Coins.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Coins\bin\Debug\net6.0\Coins.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Coins\bin\Debug\net6.0\Coins.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Coins\obj\Debug\net6.0\Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Coins\obj\Debug\net6.0\Coins.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Coins\obj\Debug\net6.0\Coins.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Coins\obj\Debug\net6.0\Coins.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Coins\obj\Debug\net6.0\Coins.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Coins\obj\Debug\net6.0\refint\Coins.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Coins\obj\Debug\net6.0\Coins.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Coins\obj\Debug\net6.0\Coins.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Coins\obj\Debug\net6.0\ref\Coins.dll

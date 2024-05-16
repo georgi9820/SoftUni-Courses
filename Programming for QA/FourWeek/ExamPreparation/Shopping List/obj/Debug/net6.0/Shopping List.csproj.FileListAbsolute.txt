@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Shopping List\bin\Debug\net6.0\Shopping List.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Shopping List\bin\Debug\net6.0\Shopping List.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Shopping List\bin\Debug\net6.0\Shopping List.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Shopping List\bin\Debug\net6.0\Shopping List.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Shopping List\bin\Debug\net6.0\Shopping List.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Shopping List\obj\Debug\net6.0\Shopping List.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Shopping List\obj\Debug\net6.0\Shopping List.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Shopping List\obj\Debug\net6.0\Shopping List.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Shopping List\obj\Debug\net6.0\Shopping List.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Shopping List\obj\Debug\net6.0\Shopping List.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Shopping List\obj\Debug\net6.0\refint\Shopping List.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Shopping List\obj\Debug\net6.0\Shopping List.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Shopping List\obj\Debug\net6.0\Shopping List.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Shopping List\obj\Debug\net6.0\ref\Shopping List.dll

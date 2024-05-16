@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RhombusOfStars\bin\Debug\net6.0\RhombusOfStars.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RhombusOfStars\bin\Debug\net6.0\RhombusOfStars.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RhombusOfStars\bin\Debug\net6.0\RhombusOfStars.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RhombusOfStars\bin\Debug\net6.0\RhombusOfStars.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RhombusOfStars\bin\Debug\net6.0\RhombusOfStars.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RhombusOfStars\obj\Debug\net6.0\RhombusOfStars.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RhombusOfStars\obj\Debug\net6.0\RhombusOfStars.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RhombusOfStars\obj\Debug\net6.0\RhombusOfStars.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RhombusOfStars\obj\Debug\net6.0\RhombusOfStars.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RhombusOfStars\obj\Debug\net6.0\RhombusOfStars.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RhombusOfStars\obj\Debug\net6.0\refint\RhombusOfStars.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RhombusOfStars\obj\Debug\net6.0\RhombusOfStars.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RhombusOfStars\obj\Debug\net6.0\RhombusOfStars.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RhombusOfStars\obj\Debug\net6.0\ref\RhombusOfStars.dll

@@ -1,0 +1,15 @@
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week2\Cities by Continent and Country\bin\Debug\net6.0\Cities by Continent and Country.exe
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week2\Cities by Continent and Country\bin\Debug\net6.0\Cities by Continent and Country.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week2\Cities by Continent and Country\bin\Debug\net6.0\Cities by Continent and Country.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week2\Cities by Continent and Country\bin\Debug\net6.0\Cities by Continent and Country.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week2\Cities by Continent and Country\bin\Debug\net6.0\Cities by Continent and Country.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week2\Cities by Continent and Country\obj\Debug\net6.0\Cities by Continent and Country.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week2\Cities by Continent and Country\obj\Debug\net6.0\Cities by Continent and Country.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week2\Cities by Continent and Country\obj\Debug\net6.0\Cities by Continent and Country.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week2\Cities by Continent and Country\obj\Debug\net6.0\Cities by Continent and Country.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week2\Cities by Continent and Country\obj\Debug\net6.0\Cities by Continent and Country.sourcelink.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week2\Cities by Continent and Country\obj\Debug\net6.0\Cities by Continent and Country.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week2\Cities by Continent and Country\obj\Debug\net6.0\refint\Cities by Continent and Country.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week2\Cities by Continent and Country\obj\Debug\net6.0\Cities by Continent and Country.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week2\Cities by Continent and Country\obj\Debug\net6.0\Cities by Continent and Country.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week2\Cities by Continent and Country\obj\Debug\net6.0\ref\Cities by Continent and Country.dll

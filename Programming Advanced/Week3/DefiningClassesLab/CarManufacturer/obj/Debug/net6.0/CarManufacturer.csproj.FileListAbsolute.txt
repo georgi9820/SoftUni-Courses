@@ -1,0 +1,15 @@
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\DefiningClassesLab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.exe
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\DefiningClassesLab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\DefiningClassesLab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\DefiningClassesLab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\DefiningClassesLab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\DefiningClassesLab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\DefiningClassesLab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\DefiningClassesLab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\DefiningClassesLab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\DefiningClassesLab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.sourcelink.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\DefiningClassesLab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\DefiningClassesLab\CarManufacturer\obj\Debug\net6.0\refint\CarManufacturer.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\DefiningClassesLab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\DefiningClassesLab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\DefiningClassesLab\CarManufacturer\obj\Debug\net6.0\ref\CarManufacturer.dll

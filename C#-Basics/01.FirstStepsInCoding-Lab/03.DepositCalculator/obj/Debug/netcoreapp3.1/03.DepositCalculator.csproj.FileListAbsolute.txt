@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.exe
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.deps.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.runtimeconfig.dev.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.DepositCalculator\bin\Debug\netcoreapp3.1\03.DepositCalculator.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.csproj.AssemblyReference.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\03.DepositCalculator\obj\Debug\netcoreapp3.1\03.DepositCalculator.genruntimeconfig.cache

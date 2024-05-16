@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Kamino Factory\bin\Debug\net6.0\Kamino Factory.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Kamino Factory\bin\Debug\net6.0\Kamino Factory.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Kamino Factory\bin\Debug\net6.0\Kamino Factory.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Kamino Factory\bin\Debug\net6.0\Kamino Factory.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Kamino Factory\bin\Debug\net6.0\Kamino Factory.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Kamino Factory\obj\Debug\net6.0\refint\Kamino Factory.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Kamino Factory\obj\Debug\net6.0\Kamino Factory.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Kamino Factory\obj\Debug\net6.0\ref\Kamino Factory.dll

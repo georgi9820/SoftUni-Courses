@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\NewHome\bin\Debug\net6.0\NewHome.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\NewHome\bin\Debug\net6.0\NewHome.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\NewHome\bin\Debug\net6.0\NewHome.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\NewHome\bin\Debug\net6.0\NewHome.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\NewHome\bin\Debug\net6.0\NewHome.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\NewHome\obj\Debug\net6.0\NewHome.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\NewHome\obj\Debug\net6.0\NewHome.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\NewHome\obj\Debug\net6.0\NewHome.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\NewHome\obj\Debug\net6.0\NewHome.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\NewHome\obj\Debug\net6.0\NewHome.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\NewHome\obj\Debug\net6.0\refint\NewHome.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\NewHome\obj\Debug\net6.0\NewHome.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\NewHome\obj\Debug\net6.0\NewHome.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\NewHome\obj\Debug\net6.0\ref\NewHome.dll

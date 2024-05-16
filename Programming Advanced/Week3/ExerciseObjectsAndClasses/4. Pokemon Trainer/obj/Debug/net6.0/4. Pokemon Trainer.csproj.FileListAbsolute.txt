@@ -1,0 +1,15 @@
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\4. Pokemon Trainer\bin\Debug\net6.0\4. Pokemon Trainer.exe
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\4. Pokemon Trainer\bin\Debug\net6.0\4. Pokemon Trainer.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\4. Pokemon Trainer\bin\Debug\net6.0\4. Pokemon Trainer.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\4. Pokemon Trainer\bin\Debug\net6.0\4. Pokemon Trainer.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\4. Pokemon Trainer\bin\Debug\net6.0\4. Pokemon Trainer.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\4. Pokemon Trainer\obj\Debug\net6.0\4. Pokemon Trainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\4. Pokemon Trainer\obj\Debug\net6.0\4. Pokemon Trainer.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\4. Pokemon Trainer\obj\Debug\net6.0\4. Pokemon Trainer.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\4. Pokemon Trainer\obj\Debug\net6.0\4. Pokemon Trainer.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\4. Pokemon Trainer\obj\Debug\net6.0\4. Pokemon Trainer.sourcelink.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\4. Pokemon Trainer\obj\Debug\net6.0\4. Pokemon Trainer.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\4. Pokemon Trainer\obj\Debug\net6.0\refint\4. Pokemon Trainer.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\4. Pokemon Trainer\obj\Debug\net6.0\4. Pokemon Trainer.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\4. Pokemon Trainer\obj\Debug\net6.0\4. Pokemon Trainer.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\4. Pokemon Trainer\obj\Debug\net6.0\ref\4. Pokemon Trainer.dll

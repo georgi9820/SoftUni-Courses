@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RectangleOf1x10Stars\RectangleOf1x10Stars\bin\Debug\net6.0\RectangleOf1x10Stars.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RectangleOf1x10Stars\RectangleOf1x10Stars\bin\Debug\net6.0\RectangleOf1x10Stars.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RectangleOf1x10Stars\RectangleOf1x10Stars\bin\Debug\net6.0\RectangleOf1x10Stars.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RectangleOf1x10Stars\RectangleOf1x10Stars\bin\Debug\net6.0\RectangleOf1x10Stars.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RectangleOf1x10Stars\RectangleOf1x10Stars\bin\Debug\net6.0\RectangleOf1x10Stars.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RectangleOf1x10Stars\RectangleOf1x10Stars\obj\Debug\net6.0\RectangleOf1x10Stars.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RectangleOf1x10Stars\RectangleOf1x10Stars\obj\Debug\net6.0\RectangleOf1x10Stars.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RectangleOf1x10Stars\RectangleOf1x10Stars\obj\Debug\net6.0\RectangleOf1x10Stars.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RectangleOf1x10Stars\RectangleOf1x10Stars\obj\Debug\net6.0\RectangleOf1x10Stars.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RectangleOf1x10Stars\RectangleOf1x10Stars\obj\Debug\net6.0\RectangleOf1x10Stars.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RectangleOf1x10Stars\RectangleOf1x10Stars\obj\Debug\net6.0\refint\RectangleOf1x10Stars.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RectangleOf1x10Stars\RectangleOf1x10Stars\obj\Debug\net6.0\RectangleOf1x10Stars.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RectangleOf1x10Stars\RectangleOf1x10Stars\obj\Debug\net6.0\RectangleOf1x10Stars.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\RectangleOf1x10Stars\RectangleOf1x10Stars\obj\Debug\net6.0\ref\RectangleOf1x10Stars.dll

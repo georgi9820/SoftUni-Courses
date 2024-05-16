@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Happy Numbers\bin\Debug\net6.0\Happy Numbers.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Happy Numbers\bin\Debug\net6.0\Happy Numbers.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Happy Numbers\bin\Debug\net6.0\Happy Numbers.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Happy Numbers\bin\Debug\net6.0\Happy Numbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Happy Numbers\bin\Debug\net6.0\Happy Numbers.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Happy Numbers\obj\Debug\net6.0\Happy Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Happy Numbers\obj\Debug\net6.0\Happy Numbers.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Happy Numbers\obj\Debug\net6.0\Happy Numbers.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Happy Numbers\obj\Debug\net6.0\Happy Numbers.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Happy Numbers\obj\Debug\net6.0\Happy Numbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Happy Numbers\obj\Debug\net6.0\refint\Happy Numbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Happy Numbers\obj\Debug\net6.0\Happy Numbers.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Happy Numbers\obj\Debug\net6.0\Happy Numbers.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Happy Numbers\obj\Debug\net6.0\ref\Happy Numbers.dll

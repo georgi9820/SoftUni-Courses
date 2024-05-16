@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Vowels Count\bin\Debug\net6.0\Vowels Count.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Vowels Count\bin\Debug\net6.0\Vowels Count.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Vowels Count\bin\Debug\net6.0\Vowels Count.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Vowels Count\bin\Debug\net6.0\Vowels Count.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Vowels Count\bin\Debug\net6.0\Vowels Count.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Vowels Count\obj\Debug\net6.0\Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Vowels Count\obj\Debug\net6.0\Vowels Count.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Vowels Count\obj\Debug\net6.0\Vowels Count.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Vowels Count\obj\Debug\net6.0\Vowels Count.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Vowels Count\obj\Debug\net6.0\Vowels Count.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Vowels Count\obj\Debug\net6.0\refint\Vowels Count.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Vowels Count\obj\Debug\net6.0\Vowels Count.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Vowels Count\obj\Debug\net6.0\Vowels Count.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Vowels Count\obj\Debug\net6.0\ref\Vowels Count.dll

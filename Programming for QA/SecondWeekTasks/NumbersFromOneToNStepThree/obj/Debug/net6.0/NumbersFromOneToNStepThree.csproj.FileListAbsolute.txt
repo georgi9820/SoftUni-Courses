@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToNStepThree\bin\Debug\net6.0\NumbersFromOneToNStepThree.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToNStepThree\bin\Debug\net6.0\NumbersFromOneToNStepThree.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToNStepThree\bin\Debug\net6.0\NumbersFromOneToNStepThree.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToNStepThree\bin\Debug\net6.0\NumbersFromOneToNStepThree.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToNStepThree\bin\Debug\net6.0\NumbersFromOneToNStepThree.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToNStepThree\obj\Debug\net6.0\NumbersFromOneToNStepThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToNStepThree\obj\Debug\net6.0\NumbersFromOneToNStepThree.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToNStepThree\obj\Debug\net6.0\NumbersFromOneToNStepThree.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToNStepThree\obj\Debug\net6.0\NumbersFromOneToNStepThree.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToNStepThree\obj\Debug\net6.0\NumbersFromOneToNStepThree.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToNStepThree\obj\Debug\net6.0\refint\NumbersFromOneToNStepThree.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToNStepThree\obj\Debug\net6.0\NumbersFromOneToNStepThree.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToNStepThree\obj\Debug\net6.0\NumbersFromOneToNStepThree.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToNStepThree\obj\Debug\net6.0\ref\NumbersFromOneToNStepThree.dll

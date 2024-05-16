@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Number1To9AsWords\bin\Debug\net6.0\Number1To9AsWords.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Number1To9AsWords\bin\Debug\net6.0\Number1To9AsWords.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Number1To9AsWords\bin\Debug\net6.0\Number1To9AsWords.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Number1To9AsWords\bin\Debug\net6.0\Number1To9AsWords.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Number1To9AsWords\bin\Debug\net6.0\Number1To9AsWords.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Number1To9AsWords\obj\Debug\net6.0\Number1To9AsWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Number1To9AsWords\obj\Debug\net6.0\Number1To9AsWords.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Number1To9AsWords\obj\Debug\net6.0\Number1To9AsWords.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Number1To9AsWords\obj\Debug\net6.0\Number1To9AsWords.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Number1To9AsWords\obj\Debug\net6.0\Number1To9AsWords.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Number1To9AsWords\obj\Debug\net6.0\refint\Number1To9AsWords.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Number1To9AsWords\obj\Debug\net6.0\Number1To9AsWords.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Number1To9AsWords\obj\Debug\net6.0\Number1To9AsWords.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Number1To9AsWords\obj\Debug\net6.0\ref\Number1To9AsWords.dll

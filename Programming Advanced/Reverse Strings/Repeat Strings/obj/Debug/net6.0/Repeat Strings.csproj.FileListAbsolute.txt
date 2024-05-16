@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Repeat Strings\bin\Debug\net6.0\Repeat Strings.exe
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Repeat Strings\bin\Debug\net6.0\Repeat Strings.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Repeat Strings\bin\Debug\net6.0\Repeat Strings.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Repeat Strings\bin\Debug\net6.0\Repeat Strings.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Repeat Strings\bin\Debug\net6.0\Repeat Strings.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Repeat Strings\obj\Debug\net6.0\Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Repeat Strings\obj\Debug\net6.0\Repeat Strings.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Repeat Strings\obj\Debug\net6.0\Repeat Strings.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Repeat Strings\obj\Debug\net6.0\Repeat Strings.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Repeat Strings\obj\Debug\net6.0\Repeat Strings.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Repeat Strings\obj\Debug\net6.0\refint\Repeat Strings.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Repeat Strings\obj\Debug\net6.0\Repeat Strings.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Repeat Strings\obj\Debug\net6.0\Repeat Strings.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Repeat Strings\obj\Debug\net6.0\ref\Repeat Strings.dll

@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualSumOfEvenAndOdd\bin\Debug\net6.0\EqualSumOfEvenAndOdd.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualSumOfEvenAndOdd\bin\Debug\net6.0\EqualSumOfEvenAndOdd.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualSumOfEvenAndOdd\bin\Debug\net6.0\EqualSumOfEvenAndOdd.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualSumOfEvenAndOdd\bin\Debug\net6.0\EqualSumOfEvenAndOdd.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualSumOfEvenAndOdd\bin\Debug\net6.0\EqualSumOfEvenAndOdd.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualSumOfEvenAndOdd\obj\Debug\net6.0\EqualSumOfEvenAndOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualSumOfEvenAndOdd\obj\Debug\net6.0\EqualSumOfEvenAndOdd.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualSumOfEvenAndOdd\obj\Debug\net6.0\EqualSumOfEvenAndOdd.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualSumOfEvenAndOdd\obj\Debug\net6.0\EqualSumOfEvenAndOdd.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualSumOfEvenAndOdd\obj\Debug\net6.0\EqualSumOfEvenAndOdd.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualSumOfEvenAndOdd\obj\Debug\net6.0\refint\EqualSumOfEvenAndOdd.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualSumOfEvenAndOdd\obj\Debug\net6.0\EqualSumOfEvenAndOdd.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualSumOfEvenAndOdd\obj\Debug\net6.0\EqualSumOfEvenAndOdd.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualSumOfEvenAndOdd\obj\Debug\net6.0\ref\EqualSumOfEvenAndOdd.dll

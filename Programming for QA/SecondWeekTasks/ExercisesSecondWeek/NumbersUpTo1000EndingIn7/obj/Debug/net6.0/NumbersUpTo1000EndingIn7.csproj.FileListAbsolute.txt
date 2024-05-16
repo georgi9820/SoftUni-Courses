@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\NumbersUpTo1000EndingIn7\bin\Debug\net6.0\NumbersUpTo1000EndingIn7.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\NumbersUpTo1000EndingIn7\bin\Debug\net6.0\NumbersUpTo1000EndingIn7.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\NumbersUpTo1000EndingIn7\bin\Debug\net6.0\NumbersUpTo1000EndingIn7.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\NumbersUpTo1000EndingIn7\bin\Debug\net6.0\NumbersUpTo1000EndingIn7.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\NumbersUpTo1000EndingIn7\bin\Debug\net6.0\NumbersUpTo1000EndingIn7.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\NumbersUpTo1000EndingIn7\obj\Debug\net6.0\NumbersUpTo1000EndingIn7.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\NumbersUpTo1000EndingIn7\obj\Debug\net6.0\NumbersUpTo1000EndingIn7.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\NumbersUpTo1000EndingIn7\obj\Debug\net6.0\NumbersUpTo1000EndingIn7.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\NumbersUpTo1000EndingIn7\obj\Debug\net6.0\NumbersUpTo1000EndingIn7.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\NumbersUpTo1000EndingIn7\obj\Debug\net6.0\NumbersUpTo1000EndingIn7.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\NumbersUpTo1000EndingIn7\obj\Debug\net6.0\refint\NumbersUpTo1000EndingIn7.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\NumbersUpTo1000EndingIn7\obj\Debug\net6.0\NumbersUpTo1000EndingIn7.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\NumbersUpTo1000EndingIn7\obj\Debug\net6.0\NumbersUpTo1000EndingIn7.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\NumbersUpTo1000EndingIn7\obj\Debug\net6.0\ref\NumbersUpTo1000EndingIn7.dll

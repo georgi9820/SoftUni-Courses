@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\The song of the wheels\bin\Debug\net6.0\The song of the wheels.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\The song of the wheels\bin\Debug\net6.0\The song of the wheels.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\The song of the wheels\bin\Debug\net6.0\The song of the wheels.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\The song of the wheels\bin\Debug\net6.0\The song of the wheels.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\The song of the wheels\bin\Debug\net6.0\The song of the wheels.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\The song of the wheels\obj\Debug\net6.0\The song of the wheels.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\The song of the wheels\obj\Debug\net6.0\The song of the wheels.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\The song of the wheels\obj\Debug\net6.0\The song of the wheels.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\The song of the wheels\obj\Debug\net6.0\The song of the wheels.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\The song of the wheels\obj\Debug\net6.0\The song of the wheels.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\The song of the wheels\obj\Debug\net6.0\refint\The song of the wheels.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\The song of the wheels\obj\Debug\net6.0\The song of the wheels.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\The song of the wheels\obj\Debug\net6.0\The song of the wheels.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\The song of the wheels\obj\Debug\net6.0\ref\The song of the wheels.dll

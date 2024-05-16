@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\GreaterNumber\bin\Debug\net6.0\GreaterNumber.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\GreaterNumber\bin\Debug\net6.0\GreaterNumber.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\GreaterNumber\bin\Debug\net6.0\GreaterNumber.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\GreaterNumber\bin\Debug\net6.0\GreaterNumber.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\GreaterNumber\bin\Debug\net6.0\GreaterNumber.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\GreaterNumber\obj\Debug\net6.0\GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\GreaterNumber\obj\Debug\net6.0\GreaterNumber.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\GreaterNumber\obj\Debug\net6.0\GreaterNumber.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\GreaterNumber\obj\Debug\net6.0\GreaterNumber.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\GreaterNumber\obj\Debug\net6.0\refint\GreaterNumber.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\GreaterNumber\obj\Debug\net6.0\GreaterNumber.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\GreaterNumber\obj\Debug\net6.0\GreaterNumber.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\GreaterNumber\obj\Debug\net6.0\ref\GreaterNumber.dll

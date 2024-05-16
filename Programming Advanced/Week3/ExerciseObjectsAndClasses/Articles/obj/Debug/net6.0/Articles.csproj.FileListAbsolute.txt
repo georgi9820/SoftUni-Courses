@@ -1,0 +1,15 @@
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\Articles\bin\Debug\net6.0\Articles.exe
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\Articles\bin\Debug\net6.0\Articles.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\Articles\bin\Debug\net6.0\Articles.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\Articles\bin\Debug\net6.0\Articles.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\Articles\bin\Debug\net6.0\Articles.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\Articles\obj\Debug\net6.0\Articles.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\Articles\obj\Debug\net6.0\Articles.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\Articles\obj\Debug\net6.0\Articles.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\Articles\obj\Debug\net6.0\Articles.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\Articles\obj\Debug\net6.0\Articles.sourcelink.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\Articles\obj\Debug\net6.0\Articles.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\Articles\obj\Debug\net6.0\refint\Articles.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\Articles\obj\Debug\net6.0\Articles.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\Articles\obj\Debug\net6.0\Articles.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\Articles\obj\Debug\net6.0\ref\Articles.dll

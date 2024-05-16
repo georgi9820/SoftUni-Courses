@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\06.Redecorating\bin\Debug\net6.0\06.Redecorating.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\06.Redecorating\bin\Debug\net6.0\06.Redecorating.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\06.Redecorating\bin\Debug\net6.0\06.Redecorating.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\06.Redecorating\bin\Debug\net6.0\06.Redecorating.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\06.Redecorating\bin\Debug\net6.0\06.Redecorating.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\06.Redecorating\obj\Debug\net6.0\06.Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\06.Redecorating\obj\Debug\net6.0\06.Redecorating.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\06.Redecorating\obj\Debug\net6.0\06.Redecorating.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\06.Redecorating\obj\Debug\net6.0\06.Redecorating.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\06.Redecorating\obj\Debug\net6.0\06.Redecorating.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\06.Redecorating\obj\Debug\net6.0\refint\06.Redecorating.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\06.Redecorating\obj\Debug\net6.0\06.Redecorating.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\06.Redecorating\obj\Debug\net6.0\06.Redecorating.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\06.Redecorating\obj\Debug\net6.0\ref\06.Redecorating.dll

@@ -1,0 +1,15 @@
+D:\c#-задачи\SoftUni-Courses\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.exe
+D:\c#-задачи\SoftUni-Courses\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.deps.json
+D:\c#-задачи\SoftUni-Courses\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.dll
+D:\c#-задачи\SoftUni-Courses\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\bin\Debug\net6.0\BoxData.pdb
+D:\c#-задачи\SoftUni-Courses\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.sourcelink.json
+D:\c#-задачи\SoftUni-Courses\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.dll
+D:\c#-задачи\SoftUni-Courses\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\refint\BoxData.dll
+D:\c#-задачи\SoftUni-Courses\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.pdb
+D:\c#-задачи\SoftUni-Courses\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\BoxData.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\13-Resources-OOP-Principles-Encapsulation-Inheritance\BoxData\obj\Debug\net6.0\ref\BoxData.dll

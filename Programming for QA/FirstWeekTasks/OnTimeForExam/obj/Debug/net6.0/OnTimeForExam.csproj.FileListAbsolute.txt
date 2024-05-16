@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\OnTimeForExam\bin\Debug\net6.0\OnTimeForExam.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\OnTimeForExam\bin\Debug\net6.0\OnTimeForExam.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\OnTimeForExam\bin\Debug\net6.0\OnTimeForExam.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\OnTimeForExam\bin\Debug\net6.0\OnTimeForExam.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\OnTimeForExam\bin\Debug\net6.0\OnTimeForExam.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\OnTimeForExam\obj\Debug\net6.0\OnTimeForExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\OnTimeForExam\obj\Debug\net6.0\OnTimeForExam.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\OnTimeForExam\obj\Debug\net6.0\OnTimeForExam.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\OnTimeForExam\obj\Debug\net6.0\OnTimeForExam.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\OnTimeForExam\obj\Debug\net6.0\OnTimeForExam.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\OnTimeForExam\obj\Debug\net6.0\refint\OnTimeForExam.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\OnTimeForExam\obj\Debug\net6.0\OnTimeForExam.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\OnTimeForExam\obj\Debug\net6.0\OnTimeForExam.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\OnTimeForExam\obj\Debug\net6.0\ref\OnTimeForExam.dll

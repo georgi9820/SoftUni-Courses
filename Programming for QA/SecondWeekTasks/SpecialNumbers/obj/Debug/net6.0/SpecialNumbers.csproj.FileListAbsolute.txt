@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SpecialNumbers\bin\Debug\net6.0\SpecialNumbers.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SpecialNumbers\bin\Debug\net6.0\SpecialNumbers.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SpecialNumbers\bin\Debug\net6.0\SpecialNumbers.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SpecialNumbers\bin\Debug\net6.0\SpecialNumbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SpecialNumbers\bin\Debug\net6.0\SpecialNumbers.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SpecialNumbers\obj\Debug\net6.0\refint\SpecialNumbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SpecialNumbers\obj\Debug\net6.0\SpecialNumbers.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SpecialNumbers\obj\Debug\net6.0\ref\SpecialNumbers.dll

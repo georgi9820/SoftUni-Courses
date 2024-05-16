@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\ChristmasTree\bin\Debug\net6.0\ChristmasTree.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\ChristmasTree\bin\Debug\net6.0\ChristmasTree.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\ChristmasTree\bin\Debug\net6.0\ChristmasTree.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\ChristmasTree\bin\Debug\net6.0\ChristmasTree.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\ChristmasTree\bin\Debug\net6.0\ChristmasTree.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\ChristmasTree\obj\Debug\net6.0\ChristmasTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\ChristmasTree\obj\Debug\net6.0\ChristmasTree.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\ChristmasTree\obj\Debug\net6.0\ChristmasTree.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\ChristmasTree\obj\Debug\net6.0\ChristmasTree.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\ChristmasTree\obj\Debug\net6.0\ChristmasTree.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\ChristmasTree\obj\Debug\net6.0\refint\ChristmasTree.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\ChristmasTree\obj\Debug\net6.0\ChristmasTree.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\ChristmasTree\obj\Debug\net6.0\ChristmasTree.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\ChristmasTree\obj\Debug\net6.0\ref\ChristmasTree.dll

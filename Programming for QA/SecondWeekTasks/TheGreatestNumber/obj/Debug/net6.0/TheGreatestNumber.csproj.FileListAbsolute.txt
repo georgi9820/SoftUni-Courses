@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TheGreatestNumber\bin\Debug\net6.0\TheGreatestNumber.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TheGreatestNumber\bin\Debug\net6.0\TheGreatestNumber.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TheGreatestNumber\bin\Debug\net6.0\TheGreatestNumber.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TheGreatestNumber\bin\Debug\net6.0\TheGreatestNumber.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TheGreatestNumber\bin\Debug\net6.0\TheGreatestNumber.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TheGreatestNumber\obj\Debug\net6.0\TheGreatestNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TheGreatestNumber\obj\Debug\net6.0\TheGreatestNumber.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TheGreatestNumber\obj\Debug\net6.0\TheGreatestNumber.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TheGreatestNumber\obj\Debug\net6.0\TheGreatestNumber.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TheGreatestNumber\obj\Debug\net6.0\TheGreatestNumber.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TheGreatestNumber\obj\Debug\net6.0\refint\TheGreatestNumber.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TheGreatestNumber\obj\Debug\net6.0\TheGreatestNumber.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TheGreatestNumber\obj\Debug\net6.0\TheGreatestNumber.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TheGreatestNumber\obj\Debug\net6.0\ref\TheGreatestNumber.dll

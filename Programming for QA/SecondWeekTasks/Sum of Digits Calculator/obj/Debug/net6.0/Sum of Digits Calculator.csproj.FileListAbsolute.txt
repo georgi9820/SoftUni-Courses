@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum of Digits Calculator\bin\Debug\net6.0\Sum of Digits Calculator.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum of Digits Calculator\bin\Debug\net6.0\Sum of Digits Calculator.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum of Digits Calculator\bin\Debug\net6.0\Sum of Digits Calculator.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum of Digits Calculator\bin\Debug\net6.0\Sum of Digits Calculator.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum of Digits Calculator\bin\Debug\net6.0\Sum of Digits Calculator.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum of Digits Calculator\obj\Debug\net6.0\Sum of Digits Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum of Digits Calculator\obj\Debug\net6.0\Sum of Digits Calculator.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum of Digits Calculator\obj\Debug\net6.0\Sum of Digits Calculator.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum of Digits Calculator\obj\Debug\net6.0\Sum of Digits Calculator.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum of Digits Calculator\obj\Debug\net6.0\Sum of Digits Calculator.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum of Digits Calculator\obj\Debug\net6.0\refint\Sum of Digits Calculator.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum of Digits Calculator\obj\Debug\net6.0\Sum of Digits Calculator.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum of Digits Calculator\obj\Debug\net6.0\Sum of Digits Calculator.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum of Digits Calculator\obj\Debug\net6.0\ref\Sum of Digits Calculator.dll

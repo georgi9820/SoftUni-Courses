@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Biggest Number\bin\Debug\net6.0\Biggest Number.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Biggest Number\bin\Debug\net6.0\Biggest Number.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Biggest Number\bin\Debug\net6.0\Biggest Number.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Biggest Number\bin\Debug\net6.0\Biggest Number.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Biggest Number\bin\Debug\net6.0\Biggest Number.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Biggest Number\obj\Debug\net6.0\Biggest Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Biggest Number\obj\Debug\net6.0\Biggest Number.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Biggest Number\obj\Debug\net6.0\Biggest Number.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Biggest Number\obj\Debug\net6.0\Biggest Number.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Biggest Number\obj\Debug\net6.0\Biggest Number.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Biggest Number\obj\Debug\net6.0\refint\Biggest Number.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Biggest Number\obj\Debug\net6.0\Biggest Number.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Biggest Number\obj\Debug\net6.0\Biggest Number.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Biggest Number\obj\Debug\net6.0\ref\Biggest Number.dll

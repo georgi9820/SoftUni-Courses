@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SortedNumbers\bin\Debug\net6.0\SortedNumbers.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SortedNumbers\bin\Debug\net6.0\SortedNumbers.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SortedNumbers\bin\Debug\net6.0\SortedNumbers.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SortedNumbers\bin\Debug\net6.0\SortedNumbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SortedNumbers\bin\Debug\net6.0\SortedNumbers.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SortedNumbers\obj\Debug\net6.0\SortedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SortedNumbers\obj\Debug\net6.0\SortedNumbers.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SortedNumbers\obj\Debug\net6.0\SortedNumbers.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SortedNumbers\obj\Debug\net6.0\SortedNumbers.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SortedNumbers\obj\Debug\net6.0\SortedNumbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SortedNumbers\obj\Debug\net6.0\refint\SortedNumbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SortedNumbers\obj\Debug\net6.0\SortedNumbers.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SortedNumbers\obj\Debug\net6.0\SortedNumbers.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SortedNumbers\obj\Debug\net6.0\ref\SortedNumbers.dll

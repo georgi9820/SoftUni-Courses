@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\NumbersFromOneToN\bin\Debug\net6.0\NumbersFromOneToN.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\NumbersFromOneToN\bin\Debug\net6.0\NumbersFromOneToN.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\NumbersFromOneToN\bin\Debug\net6.0\NumbersFromOneToN.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\NumbersFromOneToN\bin\Debug\net6.0\NumbersFromOneToN.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\NumbersFromOneToN\bin\Debug\net6.0\NumbersFromOneToN.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\NumbersFromOneToN\obj\Debug\net6.0\NumbersFromOneToN.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\NumbersFromOneToN\obj\Debug\net6.0\NumbersFromOneToN.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\NumbersFromOneToN\obj\Debug\net6.0\NumbersFromOneToN.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\NumbersFromOneToN\obj\Debug\net6.0\NumbersFromOneToN.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\NumbersFromOneToN\obj\Debug\net6.0\NumbersFromOneToN.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\NumbersFromOneToN\obj\Debug\net6.0\refint\NumbersFromOneToN.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\NumbersFromOneToN\obj\Debug\net6.0\NumbersFromOneToN.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\NumbersFromOneToN\obj\Debug\net6.0\NumbersFromOneToN.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumbersFromOneToN\NumbersFromOneToN\obj\Debug\net6.0\ref\NumbersFromOneToN.dll

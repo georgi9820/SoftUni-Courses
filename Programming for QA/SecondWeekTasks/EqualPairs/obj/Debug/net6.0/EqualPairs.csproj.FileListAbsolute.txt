@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualPairs\bin\Debug\net6.0\EqualPairs.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualPairs\bin\Debug\net6.0\EqualPairs.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualPairs\bin\Debug\net6.0\EqualPairs.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualPairs\bin\Debug\net6.0\EqualPairs.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualPairs\bin\Debug\net6.0\EqualPairs.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualPairs\obj\Debug\net6.0\EqualPairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualPairs\obj\Debug\net6.0\EqualPairs.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualPairs\obj\Debug\net6.0\EqualPairs.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualPairs\obj\Debug\net6.0\EqualPairs.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualPairs\obj\Debug\net6.0\EqualPairs.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualPairs\obj\Debug\net6.0\refint\EqualPairs.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualPairs\obj\Debug\net6.0\EqualPairs.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualPairs\obj\Debug\net6.0\EqualPairs.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\EqualPairs\obj\Debug\net6.0\ref\EqualPairs.dll

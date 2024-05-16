@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Hospital\bin\Debug\net6.0\Hospital.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Hospital\bin\Debug\net6.0\Hospital.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Hospital\bin\Debug\net6.0\Hospital.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Hospital\bin\Debug\net6.0\Hospital.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Hospital\bin\Debug\net6.0\Hospital.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Hospital\obj\Debug\net6.0\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Hospital\obj\Debug\net6.0\Hospital.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Hospital\obj\Debug\net6.0\Hospital.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Hospital\obj\Debug\net6.0\Hospital.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Hospital\obj\Debug\net6.0\Hospital.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Hospital\obj\Debug\net6.0\refint\Hospital.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Hospital\obj\Debug\net6.0\Hospital.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Hospital\obj\Debug\net6.0\Hospital.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Hospital\obj\Debug\net6.0\ref\Hospital.dll

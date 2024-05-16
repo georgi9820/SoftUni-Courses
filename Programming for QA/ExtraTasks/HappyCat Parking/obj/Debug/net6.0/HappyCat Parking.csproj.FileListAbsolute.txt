@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\HappyCat Parking\bin\Debug\net6.0\HappyCat Parking.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\HappyCat Parking\bin\Debug\net6.0\HappyCat Parking.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\HappyCat Parking\bin\Debug\net6.0\HappyCat Parking.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\HappyCat Parking\bin\Debug\net6.0\HappyCat Parking.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\HappyCat Parking\bin\Debug\net6.0\HappyCat Parking.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\HappyCat Parking\obj\Debug\net6.0\HappyCat Parking.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\HappyCat Parking\obj\Debug\net6.0\HappyCat Parking.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\HappyCat Parking\obj\Debug\net6.0\HappyCat Parking.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\HappyCat Parking\obj\Debug\net6.0\HappyCat Parking.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\HappyCat Parking\obj\Debug\net6.0\HappyCat Parking.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\HappyCat Parking\obj\Debug\net6.0\refint\HappyCat Parking.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\HappyCat Parking\obj\Debug\net6.0\HappyCat Parking.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\HappyCat Parking\obj\Debug\net6.0\HappyCat Parking.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\HappyCat Parking\obj\Debug\net6.0\ref\HappyCat Parking.dll

@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Even Powers of 2\bin\Debug\net6.0\Even Powers of 2.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Even Powers of 2\bin\Debug\net6.0\Even Powers of 2.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Even Powers of 2\bin\Debug\net6.0\Even Powers of 2.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Even Powers of 2\bin\Debug\net6.0\Even Powers of 2.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Even Powers of 2\bin\Debug\net6.0\Even Powers of 2.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Even Powers of 2\obj\Debug\net6.0\Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Even Powers of 2\obj\Debug\net6.0\Even Powers of 2.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Even Powers of 2\obj\Debug\net6.0\Even Powers of 2.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Even Powers of 2\obj\Debug\net6.0\Even Powers of 2.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Even Powers of 2\obj\Debug\net6.0\Even Powers of 2.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Even Powers of 2\obj\Debug\net6.0\refint\Even Powers of 2.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Even Powers of 2\obj\Debug\net6.0\Even Powers of 2.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Even Powers of 2\obj\Debug\net6.0\Even Powers of 2.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Even Powers of 2\obj\Debug\net6.0\ref\Even Powers of 2.dll

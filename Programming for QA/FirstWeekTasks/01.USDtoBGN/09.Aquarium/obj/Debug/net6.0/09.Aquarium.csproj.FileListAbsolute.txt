@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\09.Aquarium\bin\Debug\net6.0\09.Aquarium.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\09.Aquarium\bin\Debug\net6.0\09.Aquarium.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\09.Aquarium\bin\Debug\net6.0\09.Aquarium.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\09.Aquarium\bin\Debug\net6.0\09.Aquarium.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\09.Aquarium\bin\Debug\net6.0\09.Aquarium.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\09.Aquarium\obj\Debug\net6.0\09.Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\09.Aquarium\obj\Debug\net6.0\09.Aquarium.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\09.Aquarium\obj\Debug\net6.0\09.Aquarium.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\09.Aquarium\obj\Debug\net6.0\09.Aquarium.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\09.Aquarium\obj\Debug\net6.0\09.Aquarium.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\09.Aquarium\obj\Debug\net6.0\refint\09.Aquarium.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\09.Aquarium\obj\Debug\net6.0\09.Aquarium.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\09.Aquarium\obj\Debug\net6.0\09.Aquarium.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\09.Aquarium\obj\Debug\net6.0\ref\09.Aquarium.dll

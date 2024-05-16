@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\CleverLily\bin\Debug\net6.0\CleverLily.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\CleverLily\bin\Debug\net6.0\CleverLily.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\CleverLily\bin\Debug\net6.0\CleverLily.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\CleverLily\bin\Debug\net6.0\CleverLily.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\CleverLily\bin\Debug\net6.0\CleverLily.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\CleverLily\obj\Debug\net6.0\CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\CleverLily\obj\Debug\net6.0\CleverLily.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\CleverLily\obj\Debug\net6.0\CleverLily.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\CleverLily\obj\Debug\net6.0\CleverLily.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\CleverLily\obj\Debug\net6.0\CleverLily.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\CleverLily\obj\Debug\net6.0\refint\CleverLily.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\CleverLily\obj\Debug\net6.0\CleverLily.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\CleverLily\obj\Debug\net6.0\CleverLily.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\CleverLily\obj\Debug\net6.0\ref\CleverLily.dll

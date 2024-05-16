@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\UniquePINCodes\bin\Debug\net6.0\UniquePINCodes.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\UniquePINCodes\bin\Debug\net6.0\UniquePINCodes.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\UniquePINCodes\bin\Debug\net6.0\UniquePINCodes.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\UniquePINCodes\bin\Debug\net6.0\UniquePINCodes.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\UniquePINCodes\bin\Debug\net6.0\UniquePINCodes.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\UniquePINCodes\obj\Debug\net6.0\refint\UniquePINCodes.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\UniquePINCodes\obj\Debug\net6.0\UniquePINCodes.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\UniquePINCodes\obj\Debug\net6.0\ref\UniquePINCodes.dll

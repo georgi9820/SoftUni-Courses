@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Repeat String\bin\Debug\net6.0\Repeat String.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Repeat String\bin\Debug\net6.0\Repeat String.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Repeat String\bin\Debug\net6.0\Repeat String.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Repeat String\bin\Debug\net6.0\Repeat String.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Repeat String\bin\Debug\net6.0\Repeat String.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Repeat String\obj\Debug\net6.0\Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Repeat String\obj\Debug\net6.0\Repeat String.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Repeat String\obj\Debug\net6.0\Repeat String.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Repeat String\obj\Debug\net6.0\Repeat String.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Repeat String\obj\Debug\net6.0\Repeat String.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Repeat String\obj\Debug\net6.0\refint\Repeat String.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Repeat String\obj\Debug\net6.0\Repeat String.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Repeat String\obj\Debug\net6.0\Repeat String.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Repeat String\obj\Debug\net6.0\ref\Repeat String.dll

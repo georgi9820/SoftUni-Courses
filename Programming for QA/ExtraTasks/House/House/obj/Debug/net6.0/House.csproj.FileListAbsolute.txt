@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\House\House\bin\Debug\net6.0\House.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\House\House\bin\Debug\net6.0\House.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\House\House\bin\Debug\net6.0\House.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\House\House\bin\Debug\net6.0\House.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\House\House\bin\Debug\net6.0\House.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\House\House\obj\Debug\net6.0\House.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\House\House\obj\Debug\net6.0\House.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\House\House\obj\Debug\net6.0\House.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\House\House\obj\Debug\net6.0\House.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\House\House\obj\Debug\net6.0\House.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\House\House\obj\Debug\net6.0\refint\House.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\House\House\obj\Debug\net6.0\House.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\House\House\obj\Debug\net6.0\House.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\House\House\obj\Debug\net6.0\ref\House.dll

@@ -1,0 +1,15 @@
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\15-Resources-Implementing-OOP-Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.exe
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\15-Resources-Implementing-OOP-Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\15-Resources-Implementing-OOP-Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\15-Resources-Implementing-OOP-Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\15-Resources-Implementing-OOP-Hierarchy\bin\Debug\net6.0\ExerciseOopHierarchy.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\15-Resources-Implementing-OOP-Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\15-Resources-Implementing-OOP-Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\15-Resources-Implementing-OOP-Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\15-Resources-Implementing-OOP-Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\15-Resources-Implementing-OOP-Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.sourcelink.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\15-Resources-Implementing-OOP-Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\15-Resources-Implementing-OOP-Hierarchy\obj\Debug\net6.0\refint\ExerciseOopHierarchy.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\15-Resources-Implementing-OOP-Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\15-Resources-Implementing-OOP-Hierarchy\obj\Debug\net6.0\ExerciseOopHierarchy.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\15-Resources-Implementing-OOP-Hierarchy\obj\Debug\net6.0\ref\ExerciseOopHierarchy.dll

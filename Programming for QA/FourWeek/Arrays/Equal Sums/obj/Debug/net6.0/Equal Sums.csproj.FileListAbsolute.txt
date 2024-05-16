@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Sums\bin\Debug\net6.0\Equal Sums.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Sums\bin\Debug\net6.0\Equal Sums.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Sums\bin\Debug\net6.0\Equal Sums.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Sums\bin\Debug\net6.0\Equal Sums.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Sums\bin\Debug\net6.0\Equal Sums.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Sums\obj\Debug\net6.0\Equal Sums.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Sums\obj\Debug\net6.0\Equal Sums.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Sums\obj\Debug\net6.0\Equal Sums.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Sums\obj\Debug\net6.0\Equal Sums.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Sums\obj\Debug\net6.0\Equal Sums.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Sums\obj\Debug\net6.0\refint\Equal Sums.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Sums\obj\Debug\net6.0\Equal Sums.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Sums\obj\Debug\net6.0\Equal Sums.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Sums\obj\Debug\net6.0\ref\Equal Sums.dll

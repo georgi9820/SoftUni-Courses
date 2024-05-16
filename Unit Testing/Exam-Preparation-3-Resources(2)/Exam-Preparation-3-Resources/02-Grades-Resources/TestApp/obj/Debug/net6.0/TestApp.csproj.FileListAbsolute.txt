@@ -1,0 +1,12 @@
+D:\c#-задачи\SoftUni-Courses\Unit Testing\Exam-Preparation-3-Resources(2)\Exam-Preparation-3-Resources\02-Grades-Resources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\c#-задачи\SoftUni-Courses\Unit Testing\Exam-Preparation-3-Resources(2)\Exam-Preparation-3-Resources\02-Grades-Resources\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\c#-задачи\SoftUni-Courses\Unit Testing\Exam-Preparation-3-Resources(2)\Exam-Preparation-3-Resources\02-Grades-Resources\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\c#-задачи\SoftUni-Courses\Unit Testing\Exam-Preparation-3-Resources(2)\Exam-Preparation-3-Resources\02-Grades-Resources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Unit Testing\Exam-Preparation-3-Resources(2)\Exam-Preparation-3-Resources\02-Grades-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Unit Testing\Exam-Preparation-3-Resources(2)\Exam-Preparation-3-Resources\02-Grades-Resources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Unit Testing\Exam-Preparation-3-Resources(2)\Exam-Preparation-3-Resources\02-Grades-Resources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Unit Testing\Exam-Preparation-3-Resources(2)\Exam-Preparation-3-Resources\02-Grades-Resources\TestApp\obj\Debug\net6.0\TestApp.sourcelink.json
+D:\c#-задачи\SoftUni-Courses\Unit Testing\Exam-Preparation-3-Resources(2)\Exam-Preparation-3-Resources\02-Grades-Resources\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\c#-задачи\SoftUni-Courses\Unit Testing\Exam-Preparation-3-Resources(2)\Exam-Preparation-3-Resources\02-Grades-Resources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\c#-задачи\SoftUni-Courses\Unit Testing\Exam-Preparation-3-Resources(2)\Exam-Preparation-3-Resources\02-Grades-Resources\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\c#-задачи\SoftUni-Courses\Unit Testing\Exam-Preparation-3-Resources(2)\Exam-Preparation-3-Resources\02-Grades-Resources\TestApp\obj\Debug\net6.0\ref\TestApp.dll

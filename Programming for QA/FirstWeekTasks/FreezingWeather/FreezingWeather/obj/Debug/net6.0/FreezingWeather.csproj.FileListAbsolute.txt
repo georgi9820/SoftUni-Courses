@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FreezingWeather\FreezingWeather\bin\Debug\net6.0\FreezingWeather.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FreezingWeather\FreezingWeather\bin\Debug\net6.0\FreezingWeather.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FreezingWeather\FreezingWeather\bin\Debug\net6.0\FreezingWeather.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FreezingWeather\FreezingWeather\bin\Debug\net6.0\FreezingWeather.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FreezingWeather\FreezingWeather\bin\Debug\net6.0\FreezingWeather.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FreezingWeather\FreezingWeather\obj\Debug\net6.0\FreezingWeather.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FreezingWeather\FreezingWeather\obj\Debug\net6.0\FreezingWeather.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FreezingWeather\FreezingWeather\obj\Debug\net6.0\FreezingWeather.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FreezingWeather\FreezingWeather\obj\Debug\net6.0\FreezingWeather.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FreezingWeather\FreezingWeather\obj\Debug\net6.0\FreezingWeather.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FreezingWeather\FreezingWeather\obj\Debug\net6.0\refint\FreezingWeather.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FreezingWeather\FreezingWeather\obj\Debug\net6.0\FreezingWeather.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FreezingWeather\FreezingWeather\obj\Debug\net6.0\FreezingWeather.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FreezingWeather\FreezingWeather\obj\Debug\net6.0\ref\FreezingWeather.dll

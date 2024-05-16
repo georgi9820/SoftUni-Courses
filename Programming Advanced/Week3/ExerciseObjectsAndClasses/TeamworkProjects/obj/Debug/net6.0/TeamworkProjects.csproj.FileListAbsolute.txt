@@ -1,0 +1,15 @@
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.sourcelink.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.exe
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\TeamworkProjects\bin\Debug\net6.0\TeamworkProjects.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\TeamworkProjects\obj\Debug\net6.0\refint\TeamworkProjects.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\TeamworkProjects\obj\Debug\net6.0\TeamworkProjects.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Week3\ExerciseObjectsAndClasses\TeamworkProjects\obj\Debug\net6.0\ref\TeamworkProjects.dll

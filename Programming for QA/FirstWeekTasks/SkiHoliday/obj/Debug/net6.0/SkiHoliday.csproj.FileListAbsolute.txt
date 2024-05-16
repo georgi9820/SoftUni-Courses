@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SkiHoliday\bin\Debug\net6.0\SkiHoliday.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SkiHoliday\bin\Debug\net6.0\SkiHoliday.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SkiHoliday\bin\Debug\net6.0\SkiHoliday.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SkiHoliday\bin\Debug\net6.0\SkiHoliday.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SkiHoliday\bin\Debug\net6.0\SkiHoliday.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SkiHoliday\obj\Debug\net6.0\SkiHoliday.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SkiHoliday\obj\Debug\net6.0\SkiHoliday.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SkiHoliday\obj\Debug\net6.0\SkiHoliday.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SkiHoliday\obj\Debug\net6.0\SkiHoliday.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SkiHoliday\obj\Debug\net6.0\SkiHoliday.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SkiHoliday\obj\Debug\net6.0\refint\SkiHoliday.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SkiHoliday\obj\Debug\net6.0\SkiHoliday.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SkiHoliday\obj\Debug\net6.0\SkiHoliday.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SkiHoliday\obj\Debug\net6.0\ref\SkiHoliday.dll

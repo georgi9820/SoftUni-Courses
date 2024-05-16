@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Division to 2, 3 and 4\bin\Debug\net6.0\Division to 2, 3 and 4.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Division to 2, 3 and 4\bin\Debug\net6.0\Division to 2, 3 and 4.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Division to 2, 3 and 4\bin\Debug\net6.0\Division to 2, 3 and 4.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Division to 2, 3 and 4\bin\Debug\net6.0\Division to 2, 3 and 4.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Division to 2, 3 and 4\bin\Debug\net6.0\Division to 2, 3 and 4.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Division to 2, 3 and 4\obj\Debug\net6.0\Division to 2, 3 and 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Division to 2, 3 and 4\obj\Debug\net6.0\Division to 2, 3 and 4.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Division to 2, 3 and 4\obj\Debug\net6.0\Division to 2, 3 and 4.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Division to 2, 3 and 4\obj\Debug\net6.0\Division to 2, 3 and 4.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Division to 2, 3 and 4\obj\Debug\net6.0\Division to 2, 3 and 4.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Division to 2, 3 and 4\obj\Debug\net6.0\refint\Division to 2, 3 and 4.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Division to 2, 3 and 4\obj\Debug\net6.0\Division to 2, 3 and 4.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Division to 2, 3 and 4\obj\Debug\net6.0\Division to 2, 3 and 4.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Division to 2, 3 and 4\obj\Debug\net6.0\ref\Division to 2, 3 and 4.dll

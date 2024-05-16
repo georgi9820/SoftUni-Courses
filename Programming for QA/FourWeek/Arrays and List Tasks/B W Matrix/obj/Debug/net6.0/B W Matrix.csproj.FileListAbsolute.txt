@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\B W Matrix\bin\Debug\net6.0\B W Matrix.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\B W Matrix\bin\Debug\net6.0\B W Matrix.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\B W Matrix\bin\Debug\net6.0\B W Matrix.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\B W Matrix\bin\Debug\net6.0\B W Matrix.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\B W Matrix\bin\Debug\net6.0\B W Matrix.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\B W Matrix\obj\Debug\net6.0\B W Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\B W Matrix\obj\Debug\net6.0\B W Matrix.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\B W Matrix\obj\Debug\net6.0\B W Matrix.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\B W Matrix\obj\Debug\net6.0\B W Matrix.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\B W Matrix\obj\Debug\net6.0\B W Matrix.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\B W Matrix\obj\Debug\net6.0\refint\B W Matrix.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\B W Matrix\obj\Debug\net6.0\B W Matrix.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\B W Matrix\obj\Debug\net6.0\B W Matrix.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\B W Matrix\obj\Debug\net6.0\ref\B W Matrix.dll

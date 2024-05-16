@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SummerClothing\bin\Debug\net6.0\SummerClothing.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SummerClothing\bin\Debug\net6.0\SummerClothing.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SummerClothing\bin\Debug\net6.0\SummerClothing.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SummerClothing\bin\Debug\net6.0\SummerClothing.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SummerClothing\bin\Debug\net6.0\SummerClothing.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SummerClothing\obj\Debug\net6.0\SummerClothing.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SummerClothing\obj\Debug\net6.0\SummerClothing.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SummerClothing\obj\Debug\net6.0\SummerClothing.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SummerClothing\obj\Debug\net6.0\SummerClothing.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SummerClothing\obj\Debug\net6.0\SummerClothing.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SummerClothing\obj\Debug\net6.0\refint\SummerClothing.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SummerClothing\obj\Debug\net6.0\SummerClothing.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SummerClothing\obj\Debug\net6.0\SummerClothing.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SummerClothing\obj\Debug\net6.0\ref\SummerClothing.dll

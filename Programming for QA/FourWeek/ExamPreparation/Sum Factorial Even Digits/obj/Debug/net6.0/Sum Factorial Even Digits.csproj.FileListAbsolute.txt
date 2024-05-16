@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Sum Factorial Even Digits\bin\Debug\net6.0\Sum Factorial Even Digits.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Sum Factorial Even Digits\bin\Debug\net6.0\Sum Factorial Even Digits.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Sum Factorial Even Digits\bin\Debug\net6.0\Sum Factorial Even Digits.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Sum Factorial Even Digits\bin\Debug\net6.0\Sum Factorial Even Digits.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Sum Factorial Even Digits\bin\Debug\net6.0\Sum Factorial Even Digits.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Sum Factorial Even Digits\obj\Debug\net6.0\Sum Factorial Even Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Sum Factorial Even Digits\obj\Debug\net6.0\Sum Factorial Even Digits.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Sum Factorial Even Digits\obj\Debug\net6.0\Sum Factorial Even Digits.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Sum Factorial Even Digits\obj\Debug\net6.0\Sum Factorial Even Digits.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Sum Factorial Even Digits\obj\Debug\net6.0\Sum Factorial Even Digits.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Sum Factorial Even Digits\obj\Debug\net6.0\refint\Sum Factorial Even Digits.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Sum Factorial Even Digits\obj\Debug\net6.0\Sum Factorial Even Digits.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Sum Factorial Even Digits\obj\Debug\net6.0\Sum Factorial Even Digits.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Sum Factorial Even Digits\obj\Debug\net6.0\ref\Sum Factorial Even Digits.dll

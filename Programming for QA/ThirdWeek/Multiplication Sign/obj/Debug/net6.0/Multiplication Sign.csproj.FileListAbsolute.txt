@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiplication Sign\bin\Debug\net6.0\Multiplication Sign.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiplication Sign\bin\Debug\net6.0\Multiplication Sign.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiplication Sign\bin\Debug\net6.0\Multiplication Sign.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiplication Sign\bin\Debug\net6.0\Multiplication Sign.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiplication Sign\bin\Debug\net6.0\Multiplication Sign.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiplication Sign\obj\Debug\net6.0\refint\Multiplication Sign.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiplication Sign\obj\Debug\net6.0\Multiplication Sign.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiplication Sign\obj\Debug\net6.0\ref\Multiplication Sign.dll

@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Triangle of Stars\bin\Debug\net6.0\Triangle of Stars.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Triangle of Stars\bin\Debug\net6.0\Triangle of Stars.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Triangle of Stars\bin\Debug\net6.0\Triangle of Stars.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Triangle of Stars\bin\Debug\net6.0\Triangle of Stars.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Triangle of Stars\bin\Debug\net6.0\Triangle of Stars.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Triangle of Stars\obj\Debug\net6.0\Triangle of Stars.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Triangle of Stars\obj\Debug\net6.0\Triangle of Stars.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Triangle of Stars\obj\Debug\net6.0\Triangle of Stars.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Triangle of Stars\obj\Debug\net6.0\Triangle of Stars.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Triangle of Stars\obj\Debug\net6.0\Triangle of Stars.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Triangle of Stars\obj\Debug\net6.0\refint\Triangle of Stars.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Triangle of Stars\obj\Debug\net6.0\Triangle of Stars.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Triangle of Stars\obj\Debug\net6.0\Triangle of Stars.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Triangle of Stars\obj\Debug\net6.0\ref\Triangle of Stars.dll

@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Latin Letters\bin\Debug\net6.0\Latin Letters.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Latin Letters\bin\Debug\net6.0\Latin Letters.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Latin Letters\bin\Debug\net6.0\Latin Letters.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Latin Letters\bin\Debug\net6.0\Latin Letters.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Latin Letters\bin\Debug\net6.0\Latin Letters.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Latin Letters\obj\Debug\net6.0\Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Latin Letters\obj\Debug\net6.0\Latin Letters.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Latin Letters\obj\Debug\net6.0\Latin Letters.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Latin Letters\obj\Debug\net6.0\Latin Letters.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Latin Letters\obj\Debug\net6.0\Latin Letters.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Latin Letters\obj\Debug\net6.0\refint\Latin Letters.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Latin Letters\obj\Debug\net6.0\Latin Letters.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Latin Letters\obj\Debug\net6.0\Latin Letters.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Latin Letters\obj\Debug\net6.0\ref\Latin Letters.dll

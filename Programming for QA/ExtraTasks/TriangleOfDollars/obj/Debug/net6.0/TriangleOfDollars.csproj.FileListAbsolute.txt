@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\TriangleOfDollars\bin\Debug\net6.0\TriangleOfDollars.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\TriangleOfDollars\bin\Debug\net6.0\TriangleOfDollars.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\TriangleOfDollars\bin\Debug\net6.0\TriangleOfDollars.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\TriangleOfDollars\bin\Debug\net6.0\TriangleOfDollars.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\TriangleOfDollars\bin\Debug\net6.0\TriangleOfDollars.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\TriangleOfDollars\obj\Debug\net6.0\TriangleOfDollars.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\TriangleOfDollars\obj\Debug\net6.0\TriangleOfDollars.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\TriangleOfDollars\obj\Debug\net6.0\TriangleOfDollars.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\TriangleOfDollars\obj\Debug\net6.0\TriangleOfDollars.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\TriangleOfDollars\obj\Debug\net6.0\TriangleOfDollars.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\TriangleOfDollars\obj\Debug\net6.0\refint\TriangleOfDollars.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\TriangleOfDollars\obj\Debug\net6.0\TriangleOfDollars.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\TriangleOfDollars\obj\Debug\net6.0\TriangleOfDollars.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\TriangleOfDollars\obj\Debug\net6.0\ref\TriangleOfDollars.dll

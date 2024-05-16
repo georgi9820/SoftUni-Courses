@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Multiply Big Number\bin\Debug\net6.0\Multiply Big Number.exe
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Multiply Big Number\bin\Debug\net6.0\Multiply Big Number.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Multiply Big Number\bin\Debug\net6.0\Multiply Big Number.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Multiply Big Number\bin\Debug\net6.0\Multiply Big Number.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Multiply Big Number\bin\Debug\net6.0\Multiply Big Number.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Multiply Big Number\obj\Debug\net6.0\Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Multiply Big Number\obj\Debug\net6.0\Multiply Big Number.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Multiply Big Number\obj\Debug\net6.0\Multiply Big Number.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Multiply Big Number\obj\Debug\net6.0\Multiply Big Number.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Multiply Big Number\obj\Debug\net6.0\Multiply Big Number.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Multiply Big Number\obj\Debug\net6.0\refint\Multiply Big Number.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Multiply Big Number\obj\Debug\net6.0\Multiply Big Number.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Multiply Big Number\obj\Debug\net6.0\Multiply Big Number.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Multiply Big Number\obj\Debug\net6.0\ref\Multiply Big Number.dll

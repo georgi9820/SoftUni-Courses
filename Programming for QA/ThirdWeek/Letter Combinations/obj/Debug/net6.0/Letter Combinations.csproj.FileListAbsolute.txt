@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Letter Combinations\bin\Debug\net6.0\Letter Combinations.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Letter Combinations\bin\Debug\net6.0\Letter Combinations.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Letter Combinations\bin\Debug\net6.0\Letter Combinations.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Letter Combinations\bin\Debug\net6.0\Letter Combinations.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Letter Combinations\bin\Debug\net6.0\Letter Combinations.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Letter Combinations\obj\Debug\net6.0\Letter Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Letter Combinations\obj\Debug\net6.0\Letter Combinations.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Letter Combinations\obj\Debug\net6.0\Letter Combinations.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Letter Combinations\obj\Debug\net6.0\Letter Combinations.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Letter Combinations\obj\Debug\net6.0\Letter Combinations.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Letter Combinations\obj\Debug\net6.0\refint\Letter Combinations.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Letter Combinations\obj\Debug\net6.0\Letter Combinations.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Letter Combinations\obj\Debug\net6.0\Letter Combinations.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Letter Combinations\obj\Debug\net6.0\ref\Letter Combinations.dll

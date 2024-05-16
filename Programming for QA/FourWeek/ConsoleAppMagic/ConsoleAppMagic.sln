@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppMagic", "ConsoleAppMagic\ConsoleAppMagic.csproj", "{80FE1B7D-A054-4B8A-8128-164E0BF94BD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppMagic.Tests", "ConsoleAppMagic.Tests\ConsoleAppMagic.Tests.csproj", "{66174CA8-0087-4437-909D-6537927F0A62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80FE1B7D-A054-4B8A-8128-164E0BF94BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FE1B7D-A054-4B8A-8128-164E0BF94BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FE1B7D-A054-4B8A-8128-164E0BF94BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FE1B7D-A054-4B8A-8128-164E0BF94BD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66174CA8-0087-4437-909D-6537927F0A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66174CA8-0087-4437-909D-6537927F0A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66174CA8-0087-4437-909D-6537927F0A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66174CA8-0087-4437-909D-6537927F0A62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C071447B-B5CA-46BB-B22A-BD75F7EE609A}
+	EndGlobalSection
+EndGlobal

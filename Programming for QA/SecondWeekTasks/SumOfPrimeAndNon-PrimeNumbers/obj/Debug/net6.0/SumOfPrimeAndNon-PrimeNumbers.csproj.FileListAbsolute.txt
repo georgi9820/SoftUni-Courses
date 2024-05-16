@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SumOfPrimeAndNon-PrimeNumbers\bin\Debug\net6.0\SumOfPrimeAndNon-PrimeNumbers.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SumOfPrimeAndNon-PrimeNumbers\bin\Debug\net6.0\SumOfPrimeAndNon-PrimeNumbers.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SumOfPrimeAndNon-PrimeNumbers\bin\Debug\net6.0\SumOfPrimeAndNon-PrimeNumbers.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SumOfPrimeAndNon-PrimeNumbers\bin\Debug\net6.0\SumOfPrimeAndNon-PrimeNumbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SumOfPrimeAndNon-PrimeNumbers\bin\Debug\net6.0\SumOfPrimeAndNon-PrimeNumbers.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\SumOfPrimeAndNon-PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\SumOfPrimeAndNon-PrimeNumbers.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\SumOfPrimeAndNon-PrimeNumbers.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\SumOfPrimeAndNon-PrimeNumbers.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\SumOfPrimeAndNon-PrimeNumbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\refint\SumOfPrimeAndNon-PrimeNumbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\SumOfPrimeAndNon-PrimeNumbers.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\SumOfPrimeAndNon-PrimeNumbers.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\SumOfPrimeAndNon-PrimeNumbers\obj\Debug\net6.0\ref\SumOfPrimeAndNon-PrimeNumbers.dll

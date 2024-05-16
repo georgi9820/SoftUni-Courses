@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\TheOldLibrary\bin\Debug\net6.0\TheOldLibrary.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\TheOldLibrary\bin\Debug\net6.0\TheOldLibrary.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\TheOldLibrary\bin\Debug\net6.0\TheOldLibrary.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\TheOldLibrary\bin\Debug\net6.0\TheOldLibrary.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\TheOldLibrary\bin\Debug\net6.0\TheOldLibrary.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\TheOldLibrary\obj\Debug\net6.0\TheOldLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\TheOldLibrary\obj\Debug\net6.0\TheOldLibrary.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\TheOldLibrary\obj\Debug\net6.0\TheOldLibrary.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\TheOldLibrary\obj\Debug\net6.0\TheOldLibrary.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\TheOldLibrary\obj\Debug\net6.0\TheOldLibrary.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\TheOldLibrary\obj\Debug\net6.0\refint\TheOldLibrary.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\TheOldLibrary\obj\Debug\net6.0\TheOldLibrary.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\TheOldLibrary\obj\Debug\net6.0\TheOldLibrary.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\TheOldLibrary\obj\Debug\net6.0\ref\TheOldLibrary.dll

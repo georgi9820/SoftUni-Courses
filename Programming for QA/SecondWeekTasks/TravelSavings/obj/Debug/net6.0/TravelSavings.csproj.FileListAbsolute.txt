@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TravelSavings\bin\Debug\net6.0\TravelSavings.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TravelSavings\bin\Debug\net6.0\TravelSavings.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TravelSavings\bin\Debug\net6.0\TravelSavings.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TravelSavings\bin\Debug\net6.0\TravelSavings.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TravelSavings\bin\Debug\net6.0\TravelSavings.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TravelSavings\obj\Debug\net6.0\TravelSavings.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TravelSavings\obj\Debug\net6.0\TravelSavings.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TravelSavings\obj\Debug\net6.0\TravelSavings.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TravelSavings\obj\Debug\net6.0\TravelSavings.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TravelSavings\obj\Debug\net6.0\TravelSavings.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TravelSavings\obj\Debug\net6.0\refint\TravelSavings.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TravelSavings\obj\Debug\net6.0\TravelSavings.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TravelSavings\obj\Debug\net6.0\TravelSavings.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TravelSavings\obj\Debug\net6.0\ref\TravelSavings.dll

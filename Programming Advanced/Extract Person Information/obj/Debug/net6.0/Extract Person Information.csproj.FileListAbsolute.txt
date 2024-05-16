@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Extract Person Information\bin\Debug\net6.0\Extract Person Information.exe
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Extract Person Information\bin\Debug\net6.0\Extract Person Information.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Extract Person Information\bin\Debug\net6.0\Extract Person Information.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Extract Person Information\bin\Debug\net6.0\Extract Person Information.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Extract Person Information\bin\Debug\net6.0\Extract Person Information.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Extract Person Information\obj\Debug\net6.0\Extract Person Information.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Extract Person Information\obj\Debug\net6.0\Extract Person Information.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Extract Person Information\obj\Debug\net6.0\Extract Person Information.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Extract Person Information\obj\Debug\net6.0\Extract Person Information.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Extract Person Information\obj\Debug\net6.0\Extract Person Information.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Extract Person Information\obj\Debug\net6.0\refint\Extract Person Information.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Extract Person Information\obj\Debug\net6.0\Extract Person Information.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Extract Person Information\obj\Debug\net6.0\Extract Person Information.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Extract Person Information\obj\Debug\net6.0\ref\Extract Person Information.dll

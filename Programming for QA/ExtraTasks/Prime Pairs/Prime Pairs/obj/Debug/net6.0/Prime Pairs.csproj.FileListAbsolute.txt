@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Prime Pairs\Prime Pairs\bin\Debug\net6.0\Prime Pairs.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Prime Pairs\Prime Pairs\bin\Debug\net6.0\Prime Pairs.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Prime Pairs\Prime Pairs\bin\Debug\net6.0\Prime Pairs.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Prime Pairs\Prime Pairs\bin\Debug\net6.0\Prime Pairs.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Prime Pairs\Prime Pairs\bin\Debug\net6.0\Prime Pairs.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Prime Pairs\Prime Pairs\obj\Debug\net6.0\Prime Pairs.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Prime Pairs\Prime Pairs\obj\Debug\net6.0\Prime Pairs.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Prime Pairs\Prime Pairs\obj\Debug\net6.0\Prime Pairs.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Prime Pairs\Prime Pairs\obj\Debug\net6.0\Prime Pairs.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Prime Pairs\Prime Pairs\obj\Debug\net6.0\Prime Pairs.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Prime Pairs\Prime Pairs\obj\Debug\net6.0\refint\Prime Pairs.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Prime Pairs\Prime Pairs\obj\Debug\net6.0\Prime Pairs.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Prime Pairs\Prime Pairs\obj\Debug\net6.0\Prime Pairs.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Prime Pairs\Prime Pairs\obj\Debug\net6.0\ref\Prime Pairs.dll

@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\TicketPrice\bin\Debug\net6.0\TicketPrice.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\TicketPrice\bin\Debug\net6.0\TicketPrice.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\TicketPrice\bin\Debug\net6.0\TicketPrice.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\TicketPrice\bin\Debug\net6.0\TicketPrice.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\TicketPrice\bin\Debug\net6.0\TicketPrice.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\TicketPrice\obj\Debug\net6.0\TicketPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\TicketPrice\obj\Debug\net6.0\TicketPrice.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\TicketPrice\obj\Debug\net6.0\TicketPrice.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\TicketPrice\obj\Debug\net6.0\TicketPrice.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\TicketPrice\obj\Debug\net6.0\TicketPrice.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\TicketPrice\obj\Debug\net6.0\refint\TicketPrice.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\TicketPrice\obj\Debug\net6.0\TicketPrice.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\TicketPrice\obj\Debug\net6.0\TicketPrice.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\TicketPrice\obj\Debug\net6.0\ref\TicketPrice.dll

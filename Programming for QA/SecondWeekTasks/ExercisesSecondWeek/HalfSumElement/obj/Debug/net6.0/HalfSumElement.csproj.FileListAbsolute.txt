@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\HalfSumElement\bin\Debug\net6.0\HalfSumElement.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\HalfSumElement\bin\Debug\net6.0\HalfSumElement.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\HalfSumElement\bin\Debug\net6.0\HalfSumElement.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\HalfSumElement\bin\Debug\net6.0\HalfSumElement.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\HalfSumElement\bin\Debug\net6.0\HalfSumElement.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\HalfSumElement\obj\Debug\net6.0\HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\HalfSumElement\obj\Debug\net6.0\HalfSumElement.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\HalfSumElement\obj\Debug\net6.0\HalfSumElement.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\HalfSumElement\obj\Debug\net6.0\HalfSumElement.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\HalfSumElement\obj\Debug\net6.0\HalfSumElement.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\HalfSumElement\obj\Debug\net6.0\refint\HalfSumElement.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\HalfSumElement\obj\Debug\net6.0\HalfSumElement.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\HalfSumElement\obj\Debug\net6.0\HalfSumElement.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\HalfSumElement\obj\Debug\net6.0\ref\HalfSumElement.dll

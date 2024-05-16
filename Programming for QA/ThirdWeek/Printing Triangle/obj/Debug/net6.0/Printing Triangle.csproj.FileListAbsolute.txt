@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Printing Triangle\bin\Debug\net6.0\Printing Triangle.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Printing Triangle\bin\Debug\net6.0\Printing Triangle.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Printing Triangle\bin\Debug\net6.0\Printing Triangle.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Printing Triangle\bin\Debug\net6.0\Printing Triangle.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Printing Triangle\bin\Debug\net6.0\Printing Triangle.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Printing Triangle\obj\Debug\net6.0\Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Printing Triangle\obj\Debug\net6.0\Printing Triangle.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Printing Triangle\obj\Debug\net6.0\Printing Triangle.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Printing Triangle\obj\Debug\net6.0\Printing Triangle.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Printing Triangle\obj\Debug\net6.0\Printing Triangle.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Printing Triangle\obj\Debug\net6.0\refint\Printing Triangle.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Printing Triangle\obj\Debug\net6.0\Printing Triangle.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Printing Triangle\obj\Debug\net6.0\Printing Triangle.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Printing Triangle\obj\Debug\net6.0\ref\Printing Triangle.dll

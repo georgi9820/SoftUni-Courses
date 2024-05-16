@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\BackToThePast\bin\Debug\net6.0\BackToThePast.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\BackToThePast\bin\Debug\net6.0\BackToThePast.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\BackToThePast\bin\Debug\net6.0\BackToThePast.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\BackToThePast\bin\Debug\net6.0\BackToThePast.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\BackToThePast\bin\Debug\net6.0\BackToThePast.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\BackToThePast\obj\Debug\net6.0\BackToThePast.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\BackToThePast\obj\Debug\net6.0\BackToThePast.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\BackToThePast\obj\Debug\net6.0\BackToThePast.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\BackToThePast\obj\Debug\net6.0\BackToThePast.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\BackToThePast\obj\Debug\net6.0\BackToThePast.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\BackToThePast\obj\Debug\net6.0\refint\BackToThePast.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\BackToThePast\obj\Debug\net6.0\BackToThePast.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\BackToThePast\obj\Debug\net6.0\BackToThePast.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\BackToThePast\obj\Debug\net6.0\ref\BackToThePast.dll

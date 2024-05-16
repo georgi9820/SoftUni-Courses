@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\List\List Manipulation Basics\bin\Debug\net6.0\List Manipulation Basics.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\List\List Manipulation Basics\bin\Debug\net6.0\List Manipulation Basics.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\List\List Manipulation Basics\bin\Debug\net6.0\List Manipulation Basics.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\List\List Manipulation Basics\bin\Debug\net6.0\List Manipulation Basics.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\List\List Manipulation Basics\bin\Debug\net6.0\List Manipulation Basics.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\List\List Manipulation Basics\obj\Debug\net6.0\List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\List\List Manipulation Basics\obj\Debug\net6.0\List Manipulation Basics.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\List\List Manipulation Basics\obj\Debug\net6.0\List Manipulation Basics.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\List\List Manipulation Basics\obj\Debug\net6.0\List Manipulation Basics.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\List\List Manipulation Basics\obj\Debug\net6.0\List Manipulation Basics.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\List\List Manipulation Basics\obj\Debug\net6.0\refint\List Manipulation Basics.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\List\List Manipulation Basics\obj\Debug\net6.0\List Manipulation Basics.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\List\List Manipulation Basics\obj\Debug\net6.0\List Manipulation Basics.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\List\List Manipulation Basics\obj\Debug\net6.0\ref\List Manipulation Basics.dll

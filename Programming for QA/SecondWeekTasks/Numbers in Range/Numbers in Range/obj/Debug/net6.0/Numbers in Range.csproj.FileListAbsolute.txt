@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers in Range\Numbers in Range\bin\Debug\net6.0\Numbers in Range.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers in Range\Numbers in Range\bin\Debug\net6.0\Numbers in Range.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers in Range\Numbers in Range\bin\Debug\net6.0\Numbers in Range.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers in Range\Numbers in Range\bin\Debug\net6.0\Numbers in Range.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers in Range\Numbers in Range\bin\Debug\net6.0\Numbers in Range.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers in Range\Numbers in Range\obj\Debug\net6.0\Numbers in Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers in Range\Numbers in Range\obj\Debug\net6.0\Numbers in Range.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers in Range\Numbers in Range\obj\Debug\net6.0\Numbers in Range.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers in Range\Numbers in Range\obj\Debug\net6.0\Numbers in Range.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers in Range\Numbers in Range\obj\Debug\net6.0\Numbers in Range.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers in Range\Numbers in Range\obj\Debug\net6.0\refint\Numbers in Range.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers in Range\Numbers in Range\obj\Debug\net6.0\Numbers in Range.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers in Range\Numbers in Range\obj\Debug\net6.0\Numbers in Range.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Numbers in Range\Numbers in Range\obj\Debug\net6.0\ref\Numbers in Range.dll

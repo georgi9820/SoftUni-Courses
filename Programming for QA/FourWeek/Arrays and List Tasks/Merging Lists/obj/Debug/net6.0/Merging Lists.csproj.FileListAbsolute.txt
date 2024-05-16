@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Merging Lists\bin\Debug\net6.0\Merging Lists.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Merging Lists\bin\Debug\net6.0\Merging Lists.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Merging Lists\bin\Debug\net6.0\Merging Lists.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Merging Lists\bin\Debug\net6.0\Merging Lists.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Merging Lists\bin\Debug\net6.0\Merging Lists.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Merging Lists\obj\Debug\net6.0\Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Merging Lists\obj\Debug\net6.0\Merging Lists.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Merging Lists\obj\Debug\net6.0\Merging Lists.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Merging Lists\obj\Debug\net6.0\Merging Lists.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Merging Lists\obj\Debug\net6.0\Merging Lists.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Merging Lists\obj\Debug\net6.0\refint\Merging Lists.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Merging Lists\obj\Debug\net6.0\Merging Lists.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Merging Lists\obj\Debug\net6.0\Merging Lists.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays and List Tasks\Merging Lists\obj\Debug\net6.0\ref\Merging Lists.dll

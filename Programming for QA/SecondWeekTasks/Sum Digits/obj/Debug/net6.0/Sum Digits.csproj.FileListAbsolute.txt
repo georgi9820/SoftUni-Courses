@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum Digits\bin\Debug\net6.0\Sum Digits.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum Digits\bin\Debug\net6.0\Sum Digits.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum Digits\bin\Debug\net6.0\Sum Digits.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum Digits\bin\Debug\net6.0\Sum Digits.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum Digits\bin\Debug\net6.0\Sum Digits.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum Digits\obj\Debug\net6.0\Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum Digits\obj\Debug\net6.0\Sum Digits.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum Digits\obj\Debug\net6.0\Sum Digits.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum Digits\obj\Debug\net6.0\Sum Digits.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum Digits\obj\Debug\net6.0\Sum Digits.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum Digits\obj\Debug\net6.0\refint\Sum Digits.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum Digits\obj\Debug\net6.0\Sum Digits.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum Digits\obj\Debug\net6.0\Sum Digits.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Sum Digits\obj\Debug\net6.0\ref\Sum Digits.dll

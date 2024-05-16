@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Condense Array to Number\bin\Debug\net6.0\Condense Array to Number.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Condense Array to Number\obj\Debug\net6.0\refint\Condense Array to Number.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Condense Array to Number\obj\Debug\net6.0\Condense Array to Number.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Condense Array to Number\obj\Debug\net6.0\ref\Condense Array to Number.dll

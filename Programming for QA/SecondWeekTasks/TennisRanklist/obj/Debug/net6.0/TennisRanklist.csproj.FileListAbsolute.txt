@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TennisRanklist\bin\Debug\net6.0\TennisRanklist.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TennisRanklist\bin\Debug\net6.0\TennisRanklist.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TennisRanklist\bin\Debug\net6.0\TennisRanklist.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TennisRanklist\bin\Debug\net6.0\TennisRanklist.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TennisRanklist\bin\Debug\net6.0\TennisRanklist.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TennisRanklist\obj\Debug\net6.0\TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TennisRanklist\obj\Debug\net6.0\TennisRanklist.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TennisRanklist\obj\Debug\net6.0\TennisRanklist.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TennisRanklist\obj\Debug\net6.0\TennisRanklist.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TennisRanklist\obj\Debug\net6.0\TennisRanklist.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TennisRanklist\obj\Debug\net6.0\refint\TennisRanklist.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TennisRanklist\obj\Debug\net6.0\TennisRanklist.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TennisRanklist\obj\Debug\net6.0\TennisRanklist.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\TennisRanklist\obj\Debug\net6.0\ref\TennisRanklist.dll

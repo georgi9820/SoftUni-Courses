@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Unique PIN Codes\bin\Debug\net6.0\Unique PIN Codes.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Unique PIN Codes\bin\Debug\net6.0\Unique PIN Codes.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Unique PIN Codes\bin\Debug\net6.0\Unique PIN Codes.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Unique PIN Codes\bin\Debug\net6.0\Unique PIN Codes.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Unique PIN Codes\bin\Debug\net6.0\Unique PIN Codes.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Unique PIN Codes\obj\Debug\net6.0\Unique PIN Codes.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Unique PIN Codes\obj\Debug\net6.0\Unique PIN Codes.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Unique PIN Codes\obj\Debug\net6.0\Unique PIN Codes.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Unique PIN Codes\obj\Debug\net6.0\Unique PIN Codes.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Unique PIN Codes\obj\Debug\net6.0\Unique PIN Codes.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Unique PIN Codes\obj\Debug\net6.0\refint\Unique PIN Codes.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Unique PIN Codes\obj\Debug\net6.0\Unique PIN Codes.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Unique PIN Codes\obj\Debug\net6.0\Unique PIN Codes.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Unique PIN Codes\obj\Debug\net6.0\ref\Unique PIN Codes.dll

@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\LettersCombinations\bin\Debug\net6.0\LettersCombinations.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\LettersCombinations\bin\Debug\net6.0\LettersCombinations.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\LettersCombinations\bin\Debug\net6.0\LettersCombinations.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\LettersCombinations\bin\Debug\net6.0\LettersCombinations.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\LettersCombinations\bin\Debug\net6.0\LettersCombinations.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\LettersCombinations\obj\Debug\net6.0\LettersCombinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\LettersCombinations\obj\Debug\net6.0\LettersCombinations.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\LettersCombinations\obj\Debug\net6.0\LettersCombinations.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\LettersCombinations\obj\Debug\net6.0\LettersCombinations.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\LettersCombinations\obj\Debug\net6.0\LettersCombinations.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\LettersCombinations\obj\Debug\net6.0\refint\LettersCombinations.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\LettersCombinations\obj\Debug\net6.0\LettersCombinations.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\LettersCombinations\obj\Debug\net6.0\LettersCombinations.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\LettersCombinations\obj\Debug\net6.0\ref\LettersCombinations.dll

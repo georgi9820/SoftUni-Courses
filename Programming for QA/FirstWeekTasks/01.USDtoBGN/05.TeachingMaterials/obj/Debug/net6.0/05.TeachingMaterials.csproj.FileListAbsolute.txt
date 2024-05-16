@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\05.TeachingMaterials\bin\Debug\net6.0\05.TeachingMaterials.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\05.TeachingMaterials\bin\Debug\net6.0\05.TeachingMaterials.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\05.TeachingMaterials\bin\Debug\net6.0\05.TeachingMaterials.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\05.TeachingMaterials\bin\Debug\net6.0\05.TeachingMaterials.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\05.TeachingMaterials\bin\Debug\net6.0\05.TeachingMaterials.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\05.TeachingMaterials\obj\Debug\net6.0\05.TeachingMaterials.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\05.TeachingMaterials\obj\Debug\net6.0\05.TeachingMaterials.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\05.TeachingMaterials\obj\Debug\net6.0\05.TeachingMaterials.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\05.TeachingMaterials\obj\Debug\net6.0\05.TeachingMaterials.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\05.TeachingMaterials\obj\Debug\net6.0\05.TeachingMaterials.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\05.TeachingMaterials\obj\Debug\net6.0\refint\05.TeachingMaterials.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\05.TeachingMaterials\obj\Debug\net6.0\05.TeachingMaterials.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\05.TeachingMaterials\obj\Debug\net6.0\05.TeachingMaterials.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\01.USDtoBGN\05.TeachingMaterials\obj\Debug\net6.0\ref\05.TeachingMaterials.dll

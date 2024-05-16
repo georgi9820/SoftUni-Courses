@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Factorial Division\bin\Debug\net6.0\Factorial Division.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Factorial Division\bin\Debug\net6.0\Factorial Division.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Factorial Division\bin\Debug\net6.0\Factorial Division.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Factorial Division\bin\Debug\net6.0\Factorial Division.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Factorial Division\bin\Debug\net6.0\Factorial Division.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Factorial Division\obj\Debug\net6.0\Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Factorial Division\obj\Debug\net6.0\Factorial Division.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Factorial Division\obj\Debug\net6.0\Factorial Division.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Factorial Division\obj\Debug\net6.0\Factorial Division.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Factorial Division\obj\Debug\net6.0\Factorial Division.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Factorial Division\obj\Debug\net6.0\refint\Factorial Division.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Factorial Division\obj\Debug\net6.0\Factorial Division.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Factorial Division\obj\Debug\net6.0\Factorial Division.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Factorial Division\obj\Debug\net6.0\ref\Factorial Division.dll

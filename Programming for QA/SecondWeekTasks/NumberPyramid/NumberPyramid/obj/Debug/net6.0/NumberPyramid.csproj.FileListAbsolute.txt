@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumberPyramid\NumberPyramid\bin\Debug\net6.0\NumberPyramid.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumberPyramid\NumberPyramid\bin\Debug\net6.0\NumberPyramid.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumberPyramid\NumberPyramid\bin\Debug\net6.0\NumberPyramid.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumberPyramid\NumberPyramid\bin\Debug\net6.0\NumberPyramid.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumberPyramid\NumberPyramid\bin\Debug\net6.0\NumberPyramid.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumberPyramid\NumberPyramid\obj\Debug\net6.0\NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumberPyramid\NumberPyramid\obj\Debug\net6.0\NumberPyramid.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumberPyramid\NumberPyramid\obj\Debug\net6.0\NumberPyramid.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumberPyramid\NumberPyramid\obj\Debug\net6.0\NumberPyramid.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumberPyramid\NumberPyramid\obj\Debug\net6.0\NumberPyramid.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumberPyramid\NumberPyramid\obj\Debug\net6.0\refint\NumberPyramid.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumberPyramid\NumberPyramid\obj\Debug\net6.0\NumberPyramid.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumberPyramid\NumberPyramid\obj\Debug\net6.0\NumberPyramid.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\NumberPyramid\NumberPyramid\obj\Debug\net6.0\ref\NumberPyramid.dll

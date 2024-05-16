@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\ExamPreparation\bin\Debug\net6.0\ExamPreparation.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\ExamPreparation\bin\Debug\net6.0\ExamPreparation.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\ExamPreparation\bin\Debug\net6.0\ExamPreparation.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\ExamPreparation\bin\Debug\net6.0\ExamPreparation.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\ExamPreparation\bin\Debug\net6.0\ExamPreparation.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ExamPreparation.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ExamPreparation.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ExamPreparation.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ExamPreparation.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\ExamPreparation\obj\Debug\net6.0\refint\ExamPreparation.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ExamPreparation.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ExamPreparation.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\ExamPreparation\obj\Debug\net6.0\ref\ExamPreparation.dll

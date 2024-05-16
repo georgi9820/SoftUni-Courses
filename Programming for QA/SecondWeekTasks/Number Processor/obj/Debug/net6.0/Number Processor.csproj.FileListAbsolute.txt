@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number Processor\bin\Debug\net6.0\Number Processor.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number Processor\bin\Debug\net6.0\Number Processor.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number Processor\bin\Debug\net6.0\Number Processor.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number Processor\bin\Debug\net6.0\Number Processor.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number Processor\bin\Debug\net6.0\Number Processor.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number Processor\obj\Debug\net6.0\Number Processor.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number Processor\obj\Debug\net6.0\Number Processor.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number Processor\obj\Debug\net6.0\Number Processor.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number Processor\obj\Debug\net6.0\Number Processor.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number Processor\obj\Debug\net6.0\Number Processor.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number Processor\obj\Debug\net6.0\refint\Number Processor.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number Processor\obj\Debug\net6.0\Number Processor.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number Processor\obj\Debug\net6.0\Number Processor.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Number Processor\obj\Debug\net6.0\ref\Number Processor.dll

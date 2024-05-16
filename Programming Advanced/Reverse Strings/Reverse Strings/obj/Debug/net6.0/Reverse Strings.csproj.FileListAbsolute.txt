@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Reverse Strings\bin\Debug\net6.0\Reverse Strings.exe
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Reverse Strings\bin\Debug\net6.0\Reverse Strings.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Reverse Strings\bin\Debug\net6.0\Reverse Strings.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Reverse Strings\bin\Debug\net6.0\Reverse Strings.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Reverse Strings\bin\Debug\net6.0\Reverse Strings.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Reverse Strings\obj\Debug\net6.0\Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Reverse Strings\obj\Debug\net6.0\Reverse Strings.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Reverse Strings\obj\Debug\net6.0\Reverse Strings.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Reverse Strings\obj\Debug\net6.0\Reverse Strings.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Reverse Strings\obj\Debug\net6.0\Reverse Strings.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Reverse Strings\obj\Debug\net6.0\refint\Reverse Strings.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Reverse Strings\obj\Debug\net6.0\Reverse Strings.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Reverse Strings\obj\Debug\net6.0\Reverse Strings.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Reverse Strings\obj\Debug\net6.0\ref\Reverse Strings.dll

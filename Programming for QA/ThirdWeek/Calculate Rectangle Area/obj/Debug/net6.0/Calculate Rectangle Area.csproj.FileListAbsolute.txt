@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Calculate Rectangle Area\bin\Debug\net6.0\Calculate Rectangle Area.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Calculate Rectangle Area\bin\Debug\net6.0\Calculate Rectangle Area.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Calculate Rectangle Area\bin\Debug\net6.0\Calculate Rectangle Area.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Calculate Rectangle Area\bin\Debug\net6.0\Calculate Rectangle Area.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Calculate Rectangle Area\bin\Debug\net6.0\Calculate Rectangle Area.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Calculate Rectangle Area\obj\Debug\net6.0\Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Calculate Rectangle Area\obj\Debug\net6.0\Calculate Rectangle Area.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Calculate Rectangle Area\obj\Debug\net6.0\Calculate Rectangle Area.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Calculate Rectangle Area\obj\Debug\net6.0\Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Calculate Rectangle Area\obj\Debug\net6.0\Calculate Rectangle Area.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Calculate Rectangle Area\obj\Debug\net6.0\refint\Calculate Rectangle Area.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Calculate Rectangle Area\obj\Debug\net6.0\Calculate Rectangle Area.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Calculate Rectangle Area\obj\Debug\net6.0\Calculate Rectangle Area.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Calculate Rectangle Area\obj\Debug\net6.0\ref\Calculate Rectangle Area.dll

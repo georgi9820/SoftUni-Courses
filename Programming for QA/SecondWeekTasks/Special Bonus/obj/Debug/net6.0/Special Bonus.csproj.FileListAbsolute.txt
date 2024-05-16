@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Special Bonus\bin\Debug\net6.0\Special Bonus.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Special Bonus\bin\Debug\net6.0\Special Bonus.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Special Bonus\bin\Debug\net6.0\Special Bonus.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Special Bonus\bin\Debug\net6.0\Special Bonus.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Special Bonus\bin\Debug\net6.0\Special Bonus.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Special Bonus\obj\Debug\net6.0\Special Bonus.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Special Bonus\obj\Debug\net6.0\Special Bonus.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Special Bonus\obj\Debug\net6.0\Special Bonus.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Special Bonus\obj\Debug\net6.0\Special Bonus.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Special Bonus\obj\Debug\net6.0\Special Bonus.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Special Bonus\obj\Debug\net6.0\refint\Special Bonus.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Special Bonus\obj\Debug\net6.0\Special Bonus.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Special Bonus\obj\Debug\net6.0\Special Bonus.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Special Bonus\obj\Debug\net6.0\ref\Special Bonus.dll

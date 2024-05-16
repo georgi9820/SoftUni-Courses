@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Graduation\bin\Debug\net6.0\Graduation.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Graduation\bin\Debug\net6.0\Graduation.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Graduation\bin\Debug\net6.0\Graduation.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Graduation\bin\Debug\net6.0\Graduation.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Graduation\bin\Debug\net6.0\Graduation.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Graduation\obj\Debug\net6.0\Graduation.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Graduation\obj\Debug\net6.0\Graduation.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Graduation\obj\Debug\net6.0\Graduation.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Graduation\obj\Debug\net6.0\Graduation.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Graduation\obj\Debug\net6.0\Graduation.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Graduation\obj\Debug\net6.0\refint\Graduation.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Graduation\obj\Debug\net6.0\Graduation.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Graduation\obj\Debug\net6.0\Graduation.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Graduation\obj\Debug\net6.0\ref\Graduation.dll

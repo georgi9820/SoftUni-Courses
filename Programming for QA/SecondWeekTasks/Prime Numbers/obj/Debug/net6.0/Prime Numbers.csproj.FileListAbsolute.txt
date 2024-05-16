@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Prime Numbers\bin\Debug\net6.0\Prime Numbers.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Prime Numbers\bin\Debug\net6.0\Prime Numbers.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Prime Numbers\bin\Debug\net6.0\Prime Numbers.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Prime Numbers\bin\Debug\net6.0\Prime Numbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Prime Numbers\bin\Debug\net6.0\Prime Numbers.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Prime Numbers\obj\Debug\net6.0\Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Prime Numbers\obj\Debug\net6.0\Prime Numbers.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Prime Numbers\obj\Debug\net6.0\Prime Numbers.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Prime Numbers\obj\Debug\net6.0\Prime Numbers.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Prime Numbers\obj\Debug\net6.0\Prime Numbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Prime Numbers\obj\Debug\net6.0\refint\Prime Numbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Prime Numbers\obj\Debug\net6.0\Prime Numbers.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Prime Numbers\obj\Debug\net6.0\Prime Numbers.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Prime Numbers\obj\Debug\net6.0\ref\Prime Numbers.dll

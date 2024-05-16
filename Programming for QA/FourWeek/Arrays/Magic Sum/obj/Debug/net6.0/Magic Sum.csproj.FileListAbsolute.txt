@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Magic Sum\bin\Debug\net6.0\Magic Sum.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Magic Sum\bin\Debug\net6.0\Magic Sum.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Magic Sum\bin\Debug\net6.0\Magic Sum.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Magic Sum\bin\Debug\net6.0\Magic Sum.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Magic Sum\bin\Debug\net6.0\Magic Sum.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Magic Sum\obj\Debug\net6.0\Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Magic Sum\obj\Debug\net6.0\Magic Sum.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Magic Sum\obj\Debug\net6.0\Magic Sum.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Magic Sum\obj\Debug\net6.0\Magic Sum.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Magic Sum\obj\Debug\net6.0\Magic Sum.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Magic Sum\obj\Debug\net6.0\refint\Magic Sum.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Magic Sum\obj\Debug\net6.0\Magic Sum.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Magic Sum\obj\Debug\net6.0\Magic Sum.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Magic Sum\obj\Debug\net6.0\ref\Magic Sum.dll

@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Average Last Elements\bin\Debug\net6.0\Average Last Elements.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Average Last Elements\bin\Debug\net6.0\Average Last Elements.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Average Last Elements\bin\Debug\net6.0\Average Last Elements.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Average Last Elements\bin\Debug\net6.0\Average Last Elements.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Average Last Elements\bin\Debug\net6.0\Average Last Elements.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Average Last Elements\obj\Debug\net6.0\Average Last Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Average Last Elements\obj\Debug\net6.0\Average Last Elements.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Average Last Elements\obj\Debug\net6.0\Average Last Elements.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Average Last Elements\obj\Debug\net6.0\Average Last Elements.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Average Last Elements\obj\Debug\net6.0\Average Last Elements.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Average Last Elements\obj\Debug\net6.0\refint\Average Last Elements.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Average Last Elements\obj\Debug\net6.0\Average Last Elements.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Average Last Elements\obj\Debug\net6.0\Average Last Elements.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Average Last Elements\obj\Debug\net6.0\ref\Average Last Elements.dll

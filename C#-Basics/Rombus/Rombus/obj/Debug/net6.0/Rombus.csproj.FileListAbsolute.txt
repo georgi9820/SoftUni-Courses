@@ -1,0 +1,15 @@
+D:\c#-задачи\SoftUni-Courses\C#-Basics\Rombus\Rombus\bin\Debug\net6.0\Rombus.exe
+D:\c#-задачи\SoftUni-Courses\C#-Basics\Rombus\Rombus\bin\Debug\net6.0\Rombus.deps.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\Rombus\Rombus\bin\Debug\net6.0\Rombus.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\Rombus\Rombus\bin\Debug\net6.0\Rombus.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\Rombus\Rombus\bin\Debug\net6.0\Rombus.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\Rombus\Rombus\obj\Debug\net6.0\Rombus.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\C#-Basics\Rombus\Rombus\obj\Debug\net6.0\Rombus.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\Rombus\Rombus\obj\Debug\net6.0\Rombus.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\C#-Basics\Rombus\Rombus\obj\Debug\net6.0\Rombus.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\Rombus\Rombus\obj\Debug\net6.0\Rombus.sourcelink.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\Rombus\Rombus\obj\Debug\net6.0\Rombus.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\Rombus\Rombus\obj\Debug\net6.0\refint\Rombus.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\Rombus\Rombus\obj\Debug\net6.0\Rombus.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\Rombus\Rombus\obj\Debug\net6.0\Rombus.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\Rombus\Rombus\obj\Debug\net6.0\ref\Rombus.dll

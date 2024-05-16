@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Car Number\Car Number\bin\Debug\net6.0\Car Number.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Car Number\Car Number\bin\Debug\net6.0\Car Number.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Car Number\Car Number\bin\Debug\net6.0\Car Number.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Car Number\Car Number\bin\Debug\net6.0\Car Number.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Car Number\Car Number\bin\Debug\net6.0\Car Number.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Car Number\Car Number\obj\Debug\net6.0\Car Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Car Number\Car Number\obj\Debug\net6.0\Car Number.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Car Number\Car Number\obj\Debug\net6.0\Car Number.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Car Number\Car Number\obj\Debug\net6.0\Car Number.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Car Number\Car Number\obj\Debug\net6.0\Car Number.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Car Number\Car Number\obj\Debug\net6.0\refint\Car Number.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Car Number\Car Number\obj\Debug\net6.0\Car Number.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Car Number\Car Number\obj\Debug\net6.0\Car Number.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ExtraTasks\Car Number\Car Number\obj\Debug\net6.0\ref\Car Number.dll

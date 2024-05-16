@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Ascii Sumator\bin\Debug\net6.0\Ascii Sumator.exe
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Ascii Sumator\bin\Debug\net6.0\Ascii Sumator.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Ascii Sumator\bin\Debug\net6.0\Ascii Sumator.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Ascii Sumator\bin\Debug\net6.0\Ascii Sumator.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Ascii Sumator\bin\Debug\net6.0\Ascii Sumator.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Ascii Sumator\obj\Debug\net6.0\Ascii Sumator.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Ascii Sumator\obj\Debug\net6.0\Ascii Sumator.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Ascii Sumator\obj\Debug\net6.0\Ascii Sumator.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Ascii Sumator\obj\Debug\net6.0\Ascii Sumator.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Ascii Sumator\obj\Debug\net6.0\Ascii Sumator.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Ascii Sumator\obj\Debug\net6.0\refint\Ascii Sumator.dll
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Ascii Sumator\obj\Debug\net6.0\Ascii Sumator.pdb
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Ascii Sumator\obj\Debug\net6.0\Ascii Sumator.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming Advanced\Reverse Strings\Ascii Sumator\obj\Debug\net6.0\ref\Ascii Sumator.dll

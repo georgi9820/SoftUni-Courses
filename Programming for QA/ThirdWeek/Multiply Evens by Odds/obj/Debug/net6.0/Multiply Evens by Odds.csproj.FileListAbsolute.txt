@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiply Evens by Odds\bin\Debug\net6.0\Multiply Evens by Odds.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiply Evens by Odds\bin\Debug\net6.0\Multiply Evens by Odds.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiply Evens by Odds\bin\Debug\net6.0\Multiply Evens by Odds.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiply Evens by Odds\bin\Debug\net6.0\Multiply Evens by Odds.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiply Evens by Odds\bin\Debug\net6.0\Multiply Evens by Odds.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiply Evens by Odds\obj\Debug\net6.0\Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiply Evens by Odds\obj\Debug\net6.0\Multiply Evens by Odds.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiply Evens by Odds\obj\Debug\net6.0\Multiply Evens by Odds.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiply Evens by Odds\obj\Debug\net6.0\Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiply Evens by Odds\obj\Debug\net6.0\Multiply Evens by Odds.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiply Evens by Odds\obj\Debug\net6.0\refint\Multiply Evens by Odds.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiply Evens by Odds\obj\Debug\net6.0\Multiply Evens by Odds.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiply Evens by Odds\obj\Debug\net6.0\Multiply Evens by Odds.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\ThirdWeek\Multiply Evens by Odds\obj\Debug\net6.0\ref\Multiply Evens by Odds.dll

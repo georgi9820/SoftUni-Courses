@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Arrays\bin\Debug\net6.0\Equal Arrays.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Arrays\bin\Debug\net6.0\Equal Arrays.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Arrays\bin\Debug\net6.0\Equal Arrays.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Arrays\bin\Debug\net6.0\Equal Arrays.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Arrays\bin\Debug\net6.0\Equal Arrays.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Arrays\obj\Debug\net6.0\Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Arrays\obj\Debug\net6.0\Equal Arrays.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Arrays\obj\Debug\net6.0\Equal Arrays.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Arrays\obj\Debug\net6.0\Equal Arrays.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Arrays\obj\Debug\net6.0\Equal Arrays.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Arrays\obj\Debug\net6.0\refint\Equal Arrays.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Arrays\obj\Debug\net6.0\Equal Arrays.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Arrays\obj\Debug\net6.0\Equal Arrays.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Equal Arrays\obj\Debug\net6.0\ref\Equal Arrays.dll

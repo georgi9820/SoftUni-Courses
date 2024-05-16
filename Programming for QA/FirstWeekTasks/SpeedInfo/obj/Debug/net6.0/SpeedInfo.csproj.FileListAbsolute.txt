@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SpeedInfo\bin\Debug\net6.0\SpeedInfo.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SpeedInfo\bin\Debug\net6.0\SpeedInfo.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SpeedInfo\bin\Debug\net6.0\SpeedInfo.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SpeedInfo\bin\Debug\net6.0\SpeedInfo.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SpeedInfo\bin\Debug\net6.0\SpeedInfo.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SpeedInfo\obj\Debug\net6.0\SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SpeedInfo\obj\Debug\net6.0\SpeedInfo.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SpeedInfo\obj\Debug\net6.0\SpeedInfo.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SpeedInfo\obj\Debug\net6.0\SpeedInfo.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SpeedInfo\obj\Debug\net6.0\SpeedInfo.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SpeedInfo\obj\Debug\net6.0\refint\SpeedInfo.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SpeedInfo\obj\Debug\net6.0\SpeedInfo.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SpeedInfo\obj\Debug\net6.0\SpeedInfo.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\SpeedInfo\obj\Debug\net6.0\ref\SpeedInfo.dll

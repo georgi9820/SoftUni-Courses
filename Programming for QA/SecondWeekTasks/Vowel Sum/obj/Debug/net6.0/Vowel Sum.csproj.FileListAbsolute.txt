@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Vowel Sum\bin\Debug\net6.0\Vowel Sum.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Vowel Sum\bin\Debug\net6.0\Vowel Sum.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Vowel Sum\bin\Debug\net6.0\Vowel Sum.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Vowel Sum\bin\Debug\net6.0\Vowel Sum.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Vowel Sum\bin\Debug\net6.0\Vowel Sum.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Vowel Sum\obj\Debug\net6.0\Vowel Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Vowel Sum\obj\Debug\net6.0\Vowel Sum.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Vowel Sum\obj\Debug\net6.0\Vowel Sum.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Vowel Sum\obj\Debug\net6.0\Vowel Sum.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Vowel Sum\obj\Debug\net6.0\Vowel Sum.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Vowel Sum\obj\Debug\net6.0\refint\Vowel Sum.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Vowel Sum\obj\Debug\net6.0\Vowel Sum.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Vowel Sum\obj\Debug\net6.0\Vowel Sum.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Vowel Sum\obj\Debug\net6.0\ref\Vowel Sum.dll

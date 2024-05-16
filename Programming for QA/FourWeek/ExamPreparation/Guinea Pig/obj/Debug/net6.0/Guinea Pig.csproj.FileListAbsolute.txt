@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Guinea Pig\bin\Debug\net6.0\Guinea Pig.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Guinea Pig\bin\Debug\net6.0\Guinea Pig.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Guinea Pig\bin\Debug\net6.0\Guinea Pig.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Guinea Pig\bin\Debug\net6.0\Guinea Pig.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Guinea Pig\bin\Debug\net6.0\Guinea Pig.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Guinea Pig\obj\Debug\net6.0\Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Guinea Pig\obj\Debug\net6.0\Guinea Pig.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Guinea Pig\obj\Debug\net6.0\Guinea Pig.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Guinea Pig\obj\Debug\net6.0\Guinea Pig.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Guinea Pig\obj\Debug\net6.0\Guinea Pig.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Guinea Pig\obj\Debug\net6.0\refint\Guinea Pig.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Guinea Pig\obj\Debug\net6.0\Guinea Pig.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Guinea Pig\obj\Debug\net6.0\Guinea Pig.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Guinea Pig\obj\Debug\net6.0\ref\Guinea Pig.dll

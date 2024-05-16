@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Day of Week\bin\Debug\net6.0\Day of Week.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Day of Week\bin\Debug\net6.0\Day of Week.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Day of Week\bin\Debug\net6.0\Day of Week.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Day of Week\bin\Debug\net6.0\Day of Week.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Day of Week\bin\Debug\net6.0\Day of Week.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Day of Week\obj\Debug\net6.0\Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Day of Week\obj\Debug\net6.0\Day of Week.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Day of Week\obj\Debug\net6.0\Day of Week.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Day of Week\obj\Debug\net6.0\Day of Week.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Day of Week\obj\Debug\net6.0\Day of Week.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Day of Week\obj\Debug\net6.0\refint\Day of Week.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Day of Week\obj\Debug\net6.0\Day of Week.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Day of Week\obj\Debug\net6.0\Day of Week.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\Arrays\Day of Week\obj\Debug\net6.0\ref\Day of Week.dll

@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\OddEvenPosition\bin\Debug\net6.0\OddEvenPosition.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\OddEvenPosition\bin\Debug\net6.0\OddEvenPosition.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\OddEvenPosition\bin\Debug\net6.0\OddEvenPosition.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\OddEvenPosition\bin\Debug\net6.0\OddEvenPosition.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\OddEvenPosition\bin\Debug\net6.0\OddEvenPosition.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\OddEvenPosition\obj\Debug\net6.0\OddEvenPosition.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\OddEvenPosition\obj\Debug\net6.0\OddEvenPosition.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\OddEvenPosition\obj\Debug\net6.0\OddEvenPosition.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\OddEvenPosition\obj\Debug\net6.0\OddEvenPosition.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\OddEvenPosition\obj\Debug\net6.0\OddEvenPosition.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\OddEvenPosition\obj\Debug\net6.0\refint\OddEvenPosition.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\OddEvenPosition\obj\Debug\net6.0\OddEvenPosition.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\OddEvenPosition\obj\Debug\net6.0\OddEvenPosition.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\OddEvenPosition\obj\Debug\net6.0\ref\OddEvenPosition.dll

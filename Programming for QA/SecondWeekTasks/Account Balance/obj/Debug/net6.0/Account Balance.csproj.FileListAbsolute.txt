@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Account Balance\bin\Debug\net6.0\Account Balance.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Account Balance\bin\Debug\net6.0\Account Balance.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Account Balance\bin\Debug\net6.0\Account Balance.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Account Balance\bin\Debug\net6.0\Account Balance.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Account Balance\bin\Debug\net6.0\Account Balance.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Account Balance\obj\Debug\net6.0\Account Balance.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Account Balance\obj\Debug\net6.0\Account Balance.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Account Balance\obj\Debug\net6.0\Account Balance.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Account Balance\obj\Debug\net6.0\Account Balance.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Account Balance\obj\Debug\net6.0\Account Balance.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Account Balance\obj\Debug\net6.0\refint\Account Balance.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Account Balance\obj\Debug\net6.0\Account Balance.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Account Balance\obj\Debug\net6.0\Account Balance.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\Account Balance\obj\Debug\net6.0\ref\Account Balance.dll

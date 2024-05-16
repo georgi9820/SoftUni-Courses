@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.exe
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.deps.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.runtimeconfig.dev.json
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.csproj.AssemblyReference.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.dll
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.pdb
+D:\c#-задачи\SoftUni-Courses\C#-Basics\01.FirstStepsInCoding-Lab\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.genruntimeconfig.cache

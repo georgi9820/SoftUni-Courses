@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FirstWeekTasks\bin\Debug\net6.0\FirstWeekTasks.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FirstWeekTasks\bin\Debug\net6.0\FirstWeekTasks.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FirstWeekTasks\bin\Debug\net6.0\FirstWeekTasks.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FirstWeekTasks\bin\Debug\net6.0\FirstWeekTasks.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FirstWeekTasks\bin\Debug\net6.0\FirstWeekTasks.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FirstWeekTasks\obj\Debug\net6.0\FirstWeekTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FirstWeekTasks\obj\Debug\net6.0\FirstWeekTasks.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FirstWeekTasks\obj\Debug\net6.0\FirstWeekTasks.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FirstWeekTasks\obj\Debug\net6.0\FirstWeekTasks.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FirstWeekTasks\obj\Debug\net6.0\FirstWeekTasks.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FirstWeekTasks\obj\Debug\net6.0\refint\FirstWeekTasks.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FirstWeekTasks\obj\Debug\net6.0\FirstWeekTasks.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FirstWeekTasks\obj\Debug\net6.0\FirstWeekTasks.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\FirstWeekTasks\obj\Debug\net6.0\ref\FirstWeekTasks.dll

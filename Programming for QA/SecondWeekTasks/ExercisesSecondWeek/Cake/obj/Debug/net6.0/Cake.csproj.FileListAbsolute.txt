@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Cake\bin\Debug\net6.0\Cake.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Cake\bin\Debug\net6.0\Cake.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Cake\bin\Debug\net6.0\Cake.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Cake\bin\Debug\net6.0\Cake.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Cake\bin\Debug\net6.0\Cake.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Cake\obj\Debug\net6.0\Cake.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Cake\obj\Debug\net6.0\Cake.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Cake\obj\Debug\net6.0\Cake.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Cake\obj\Debug\net6.0\Cake.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Cake\obj\Debug\net6.0\Cake.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Cake\obj\Debug\net6.0\refint\Cake.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Cake\obj\Debug\net6.0\Cake.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Cake\obj\Debug\net6.0\Cake.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\SecondWeekTasks\ExercisesSecondWeek\Cake\obj\Debug\net6.0\ref\Cake.dll

@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Journey\bin\Debug\net6.0\Journey.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Journey\bin\Debug\net6.0\Journey.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Journey\bin\Debug\net6.0\Journey.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Journey\bin\Debug\net6.0\Journey.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Journey\bin\Debug\net6.0\Journey.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Journey\obj\Debug\net6.0\Journey.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Journey\obj\Debug\net6.0\Journey.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Journey\obj\Debug\net6.0\Journey.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Journey\obj\Debug\net6.0\Journey.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Journey\obj\Debug\net6.0\Journey.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Journey\obj\Debug\net6.0\refint\Journey.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Journey\obj\Debug\net6.0\Journey.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Journey\obj\Debug\net6.0\Journey.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FirstWeekTasks\Journey\obj\Debug\net6.0\ref\Journey.dll

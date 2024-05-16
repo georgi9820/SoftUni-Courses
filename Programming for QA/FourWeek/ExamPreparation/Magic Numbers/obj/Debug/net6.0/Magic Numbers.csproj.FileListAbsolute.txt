@@ -1,0 +1,14 @@
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Magic Numbers\bin\Debug\net6.0\Magic Numbers.exe
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Magic Numbers\bin\Debug\net6.0\Magic Numbers.deps.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Magic Numbers\bin\Debug\net6.0\Magic Numbers.runtimeconfig.json
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Magic Numbers\bin\Debug\net6.0\Magic Numbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Magic Numbers\bin\Debug\net6.0\Magic Numbers.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Magic Numbers\obj\Debug\net6.0\Magic Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Magic Numbers\obj\Debug\net6.0\Magic Numbers.AssemblyInfoInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Magic Numbers\obj\Debug\net6.0\Magic Numbers.AssemblyInfo.cs
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Magic Numbers\obj\Debug\net6.0\Magic Numbers.csproj.CoreCompileInputs.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Magic Numbers\obj\Debug\net6.0\Magic Numbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Magic Numbers\obj\Debug\net6.0\refint\Magic Numbers.dll
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Magic Numbers\obj\Debug\net6.0\Magic Numbers.pdb
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Magic Numbers\obj\Debug\net6.0\Magic Numbers.genruntimeconfig.cache
+D:\c#-задачи\SoftUni-Courses\Programming for QA\FourWeek\ExamPreparation\Magic Numbers\obj\Debug\net6.0\ref\Magic Numbers.dll
